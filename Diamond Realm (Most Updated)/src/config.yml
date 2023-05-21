@@ -1,0 +1,4 @@
+WarnMessage: '&7Supports Color &lCoding &5&nWith using & key'
+#Message that tells the player when accidentally pressing drop key.
+Seconds: 5
+#Amount of time for the event to expire, and require a double tap to be pressed again.

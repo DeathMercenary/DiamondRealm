@@ -1,0 +1,9 @@
+items:
+  crystal:
+    material: nether_star
+    name: '%rarity% Crystal'
+    lore:
+    - '&7&n&lRarity&f: %rarity%'
+    - '&eBring your &6&lCrystals'
+    - '&eto &c&lNovis&e, who is'
+    - '&efound at spawn.'

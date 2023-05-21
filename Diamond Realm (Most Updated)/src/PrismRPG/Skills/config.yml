@@ -1,0 +1,167 @@
+reset:
+  free:
+    level: 15
+settings:
+  skills:
+    level:
+      enabled: true
+      maximum: 66
+    strength:
+      enabled: true
+      maximum: 50
+      increment: 5
+      ability: 25
+    attackspeed:
+      enabled: true
+      maximum: 50
+      increment: 2
+      ability: 25
+    critchance:
+      enabled: true
+      maximum: 50
+      increment: 1
+      ability: 50
+    magic:
+      enabled: true
+      maximum: 50
+      increment: 6
+      ability: 25
+    archery:
+      enabled: true
+      maximum: 50
+      increment: 7
+      ability: 25
+    health:
+      enabled: true
+      maximum: 50
+      increment: 0.8
+      ability: 25
+    armor:
+      enabled: true
+      maximum: 25
+      increment: 16
+      ability: 15
+    trader:
+      enabled: true
+      maximum: 90
+    alchemy:
+      enabled: true
+      maximum: 90
+    miner:
+      enabled: false
+      maximum: 100
+items:
+  gui:
+    strength:
+      name: '&aUpgrade your Strength &6[%skill% / %maxskill%]'
+      item: IRON_SWORD
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '    &7+%currentPercent%     &2>&a>     &6+%nextPercent%%'
+      - '   &7Damage          &6Damage'
+      - '&7'
+      - '&7Increase your melee damage'
+      ability:
+        name: '&cDecimate'
+        lore:
+        - '&7Charge a 1.5X damage hit with double'
+        - '&7right-click. Has a 2 minute cooldown'
+    archery:
+      name: '&aUpgrade your Archery &6[%skill% / %maxskill%]'
+      item: BOW
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '    &7+%currentPercent%     &2>&a>     &6+%nextPercent%%'
+      - '   &7Damage          &6Damage'
+      - '&7'
+      - '&7Increase your arrow damage'
+      ability:
+        level: 25
+        name: '&6Tripple Shot'
+        lore:
+        - '&7Shoot three arrows when'
+        - '&7you right-left click'
+    health:
+      name: '&aUpgrade your Health &6[%skill% / %maxskill%]'
+      item: APPLE
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '    &7+%currentPercent%     &2>&a>     &6+%nextPercent%%'
+      - '   &7Health          &6Health'
+      - '&7'
+      - '&7Increase your max health'
+      ability:
+        level: 25
+        name: '&dAbsorption'
+        lore:
+        - '&7When your health reaches 10%'
+        - '&7you will steal health on'
+        - '&7each hit for 5 seconds'
+    armor:
+      name: '&aUpgrade your Armor &6[%skill% / %maxskill%]'
+      item: IRON_CHESTPLATE
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '    &7+%currentPercent%     &2>&a>     &6+%nextPercent%%'
+      - '    &7Armor           &6Armor'
+      - '&7'
+      - '&7Increase your armor'
+      ability:
+        level: 25
+        name: '&bBlockage'
+        lore:
+        - '&710% chance to block hits'
+    critchance:
+      name: '&aUpgrade your Crit Chance &6[%skill% / %maxskill%]'
+      item: BLAZE_POWDER
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '     &7+%currentPercent%      &2>&a>     &6+%nextPercent%%'
+      - '   &7Chance          &6Chance'
+      - '&7'
+      - '&7Increase your super crit chance'
+      ability:
+        level: 25
+        name: '&cSuper Critical'
+        lore:
+        - '&7Have a 1%% chance'
+        - '&7to do triple damage'
+    magic:
+      name: '&aUpgrade your Magic &6[%skill% / %maxskill%]'
+      item: BLAZE_ROD
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '    &7+%currentPercent%     &2>&a>     &6+%nextPercent%%'
+      - '    &7Magic            &6Magic'
+      - '&7'
+      - '&7Increase your wand damage'
+      ability:
+        level: 25
+        name: '&dHealing Magic'
+        lore:
+        - '&7Double right-click to heal all your'
+        - '&7nearby faction members for'
+        - '&72-5 hearts based on their max HP'
+    attackspeed:
+      name: '&aUpgrade your Attack Speed &6[%skill% / %maxskill%]'
+      item: FEATHER
+      lore:
+      - '&7'
+      - '    &7&lNow:          &6&lNext:'
+      - '    &7+%currentPercent%     &2>&a>     &6+%nextPercent%%'
+      - '   &7Faster          &6Faster'
+      - '&7'
+      - '&7Increase your attack speed'
+      ability:
+        level: 25
+        name: '&dHealing Magic'
+        lore:
+        - '&7Double right-click to heal all your'
+        - '&7nearby faction members for'
+        - '&72-5 hearts based on their max HP'

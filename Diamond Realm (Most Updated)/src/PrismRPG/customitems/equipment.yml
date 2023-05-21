@@ -1,0 +1,4897 @@
+weapon:
+  common:
+    dummy_sword:
+      itemtype: wooden_sword
+      name: '&7Dummy Sword'
+      enchants:
+        '1': '&cLocked Enchantment'
+        '2': '&7Slow 1'
+        '3': '&7Slow 2'
+        '4': '&7Slow 2'
+        '5': '&7Slow 2'
+        '6': '&7Slow 2'
+        '7': '&7Why are you still leveling this'
+      damage:
+        '1': 1.6
+        '2': 1.8
+        '3': 2.0
+        '4': 2.0
+        '5': 2.0
+        '6': 2.0
+        '7': 2.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.2
+        '4': 1.2
+        '5': 1.2
+        '6': 1.2
+        '7': 1.2
+    dummy_wand:
+      itemtype: stick
+      name: '&7Dummy Wand'
+      enchants:
+        '1': '&cLocked Enchantment'
+        '2': '&7Slow 1'
+        '3': '&7Slow 2'
+        '4': '&7Slow 2'
+        '5': '&7Slow 2'
+        '6': '&7Slow 2'
+        '7': '&7Why are you still leveling this'
+      damage:
+        '1': 1.0
+        '2': 1.2
+        '3': 1.4
+        '4': 1.4
+        '5': 1.4
+        '6': 1.4
+        '7': 1.4
+      speed:
+        '1': 1.2
+        '2': 1.35
+        '3': 1.5
+        '4': 1.5
+        '5': 1.5
+        '6': 1.5
+        '7': 1.5
+    stone_sledge:
+      itemtype: stone_axe
+      name: '&7Stone Sledge'
+      enchants:
+        '1': '&7Heavy Hand 1'
+        '2': '&7Heavy Hand 1'
+        '3': '&7Heavy Hand 2'
+        '4': '&7Heavy Hand 2'
+        '5': '&7Heavy Hand 3'
+        '6': '&7Heavy Hand 3'
+        '7': '&7Heavy Hand 4'
+      damage:
+        '1': 8.0
+        '2': 8.2
+        '3': 8.4
+        '4': 8.6
+        '5': 8.9
+        '6': 9.5
+        '7': 10.0
+      speed:
+        '1': 0.3
+        '2': 0.35
+        '3': 0.4
+        '4': 0.45
+        '5': 0.5
+        '6': 0.55
+        '7': 0.6
+    slicer:
+      itemtype: flint
+      name: '&7Slicer'
+      enchants:
+        '1': '&7Bleed 1'
+        '2': '&7Bleed 1'
+        '3': '&7Bleed 2'
+        '4': '&7Bleed 2'
+        '5': '&7Bleed 3'
+        '6': '&7Bleed 3'
+        '7': '&7Bleed 4'
+      damage:
+        '1': 0.5
+        '2': 0.7
+        '3': 0.8
+        '4': 1.0
+        '5': 1.2
+        '6': 1.4
+        '7': 2
+      speed:
+        '1': 1.0
+        '2': 1.2
+        '3': 1.3
+        '4': 1.5
+        '5': 1.6
+        '6': 1.8
+        '7': 2.0
+    swift_sword:
+      itemtype: iron_sword
+      name: '&7Swift Sword'
+      enchants:
+        '1': '&7Haste 1'
+        '2': '&7Haste 1'
+        '3': '&7Haste 2'
+        '4': '&7Haste 2'
+        '5': '&7Haste 3'
+        '6': '&7Haste 3'
+        '7': '&7Haste 4'
+      damage:
+        '1': 2.0
+        '2': 2.2
+        '3': 2.4
+        '4': 2.6
+        '5': 2.8
+        '6': 3.0
+        '7': 3.4
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.2
+        '4': 1.3
+        '5': 1.4
+        '6': 1.6
+        '7': 1.9
+    knight's_desolation:
+      itemtype: stone_sword
+      name: '&7Knight''s Desolation'
+      enchants:
+        '1': '&7Debility 1'
+        '2': '&7Debility 1'
+        '3': '&7Debility 2'
+        '4': '&7Debility 2'
+        '5': '&7Debility 3'
+        '6': '&7Debility 3'
+        '7': '&7Debility 4'
+      damage:
+        '1': 4.0
+        '2': 4.2
+        '3': 4.4
+        '4': 4.8
+        '5': 5.2
+        '6': 5.7
+        '7': 6.0
+      speed:
+        '1': 0.4
+        '2': 0.5
+        '3': 0.6
+        '4': 0.7
+        '5': 0.7
+        '6': 0.8
+        '7': 1.0
+    bright_dagger:
+      itemtype: lever
+      name: '&7Bright Dagger'
+      enchants:
+        '1': '&7Blind 1'
+        '2': '&7Blind 1'
+        '3': '&7Blind 2'
+        '4': '&7Blind 2'
+        '5': '&7Blind 3'
+        '6': '&7Blind 3'
+        '7': '&7Blind 4'
+      damage:
+        '1': 1.2
+        '2': 1.6
+        '3': 2.0
+        '4': 2.5
+        '5': 2.8
+        '6': 2.9
+        '7': 3.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.3
+        '4': 1.5
+        '5': 1.7
+        '6': 1.8
+        '7': 2.0
+    broken_sword:
+      itemtype: stone_sword
+      name: '&7Broken Sword'
+      enchants:
+        '1': '&7Slow 1'
+        '2': '&7Slow 1'
+        '3': '&7Slow 2'
+        '4': '&7Slow 2'
+        '5': '&7Slow 3'
+        '6': '&7Slow 3'
+        '7': '&7Slow 4'
+      damage:
+        '1': 5.2
+        '2': 5.4
+        '3': 5.6
+        '4': 5.8
+        '5': 6.0
+        '6': 6.1
+        '7': 6.2
+      speed:
+        '1': 0.6
+        '2': 0.7
+        '3': 0.8
+        '4': 0.9
+        '5': 0.9
+        '6': 1.0
+        '7': 1.0
+    monk's_wand:
+      itemtype: stick
+      name: '&7Monk''s Wand'
+      enchants:
+        '1': '&7Slow 1'
+        '2': '&7Slow 1'
+        '3': '&7Slow 2'
+        '4': '&7Slow 2'
+        '5': '&7Slow 3'
+        '6': '&7Slow 3'
+        '7': '&7Slow 4'
+      damage:
+        '1': 3.0
+        '2': 3.3
+        '3': 3.5
+        '4': 3.6
+        '5': 3.7
+        '6': 3.8
+        '7': 4.0
+      speed:
+        '1': 0.8
+        '2': 0.8
+        '3': 0.8
+        '4': 0.85
+        '5': 0.9
+        '6': 0.95
+        '7': 1.0
+    old_wand:
+      itemtype: stick
+      name: '&7Old Wand'
+      enchants:
+        '1': '&7Weakness 1'
+        '2': '&7Weakness 1'
+        '3': '&7Weakness 2'
+        '4': '&7Weakness 2'
+        '5': '&7Weakness 3'
+        '6': '&7Weakness 3'
+        '7': '&7Weakness 4'
+      damage:
+        '1': 1.0
+        '2': 1.4
+        '3': 1.5
+        '4': 2.0
+        '5': 2.1
+        '6': 2.4
+        '7': 3.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.2
+        '4': 1.3
+        '5': 1.4
+        '6': 1.45
+        '7': 1.5
+    vintage_blade:
+      itemtype: iron_sword
+      name: '&7Vintage Blade'
+      enchants:
+        '1': '&7Featherweight 1||&cLocked'
+        '2': '&7Featherweight 2||&cLocked'
+        '3': '&7Featherweight 3||&cLocked'
+        '4': '&7Featherweight 4||&7Drain 1'
+        '5': '&7Featherweight 4||&7Drain 2'
+        '6': '&7Featherweight 4||&7Drain 3'
+        '7': '&7Featherweight 4||&7Drain 4'
+      damage:
+        '1': 3.0
+        '2': 3.5
+        '3': 4.0
+        '4': 4.5
+        '5': 8.75
+        '6': 5.5
+        '7': 6.0
+      speed:
+        '1': 1
+        '2': 1.1
+        '3': 1.2
+        '4': 1.3
+        '5': 0.8
+        '6': 1.5
+        '7': 1.7
+    dull_blade:
+      itemtype: stone_sword
+      name: '&7Dull Blade'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&cLocked'
+        '5': '&7Slow 4||&7Blast 1'
+        '6': '&7Slow 4||&7Blast 2'
+        '7': '&7Slow 4||&7Blast 3'
+      damage:
+        '1': 3.0
+        '2': 3.5
+        '3': 4.0
+        '4': 4.5
+        '5': 5.0
+        '6': 5.5
+        '7': 6.0
+      speed:
+        '1': 1
+        '2': 1.1
+        '3': 1.2
+        '4': 1.3
+        '5': 1.4
+        '6': 1.5
+        '7': 1.7
+    stone_club:
+      itemtype: stone_hoe
+      name: '&7Stone Club'
+      enchants:
+        '1': '&7Confusion 1||&cLocked'
+        '2': '&7Confusion 2||&cLocked'
+        '3': '&7Confusion 3||&cLocked'
+        '4': '&7Confusion 4||&7Blast 1'
+        '5': '&7Confusion 4||&7Blast 2'
+        '6': '&7Confusion 4||&7Blast 3'
+        '7': '&7Confusion 4||&7Slow 4'
+      damage:
+        '1': 8.0
+        '2': 8.5
+        '3': 9.0
+        '4': 10.0
+        '5': 9.5
+        '6': 10.0
+        '7': 11.0
+      speed:
+        '1': 0.4
+        '2': 0.5
+        '3': 0.6
+        '4': 0.6
+        '5': 0.8
+        '6': 0.8
+        '7': 0.7
+    wooden_stake:
+      itemtype: wooden_sword
+      name: '&7Wooden Stake'
+      enchants:
+        '1': '&7Life Steal 1||&cLocked'
+        '2': '&7Life Steal 2||&cLocked'
+        '3': '&7Life Steal 3||&cLocked'
+        '4': '&7Life Steal 4||&7Bleed 1'
+        '5': '&7Life Steal 4||&7Bleed 2'
+        '6': '&7Life Steal 4||&7Bleed 3'
+        '7': '&7Life Steal 4||&7Bleed 4'
+      damage:
+        '1': 1.5
+        '2': 1.7
+        '3': 2.0
+        '4': 1.8
+        '5': 2.2
+        '6': 2.4
+        '7': 2.7
+      speed:
+        '1': 2.2
+        '2': 2.4
+        '3': 2.5
+        '4': 2.4
+        '5': 2.6
+        '6': 2.6
+        '7': 2.7
+    small_dagger:
+      itemtype: lever
+      name: '&7Small Dagger'
+      enchants:
+        '1': '&7Bleed 1||&cLocked'
+        '2': '&7Bleed 2||&cLocked'
+        '3': '&7Bleed 3||&cLocked'
+        '4': '&7Bleed 4||&7Pick Pocket 1'
+        '5': '&7Bleed 4||&7Pick Pocket 2'
+        '6': '&7Bleed 4||&7Pick Pocket 3'
+        '7': '&7Bleed 4||&7Pick Pocket 4'
+      damage:
+        '1': 1.5
+        '2': 1.7
+        '3': 2.0
+        '4': 1.8
+        '5': 2.2
+        '6': 2.4
+        '7': 2.7
+      speed:
+        '1': 2.3
+        '2': 2.5
+        '3': 2.6
+        '4': 2.65
+        '5': 2.7
+        '6': 2.8
+        '7': 3.0
+    robin's_sword:
+      itemtype: golden_sword
+      name: '&7Robin''s Sword'
+      enchants:
+        '1': '&7Pick Pocket 1||&cLocked'
+        '2': '&7Pick Pocket 2||&cLocked'
+        '3': '&7Pick Pocket 3||&cLocked'
+        '4': '&7Pick Pocket 4||&7Weakness 1'
+        '5': '&7Pick Pocket 4||&7Weakness 2'
+        '6': '&7Pick Pocket 4||&7Weakness 3'
+        '7': '&7Pick Pocket 4||&7Weakness 4'
+      damage:
+        '1': 0.7
+        '2': 0.8
+        '3': 0.85
+        '4': 1.0
+        '5': 1.1
+        '6': 1.15
+        '7': 1.2
+      speed:
+        '1': 2.3
+        '2': 2.5
+        '3': 2.6
+        '4': 2.65
+        '5': 2.7
+        '6': 2.8
+        '7': 3.0
+    icy_sword:
+      itemtype: diamond_sword
+      name: '&7Icy Sword'
+      enchants:
+        '1': '&7Snare 1||&cLocked'
+        '2': '&7Snare 2||&cLocked'
+        '3': '&7Snare 3||&cLocked'
+        '4': '&7Snare 4||&7Wither 1'
+        '5': '&7Snare 4||&7Wither 2'
+        '6': '&7Snare 4||&7Wither 3'
+        '7': '&7Snare 4||&7Wither 4'
+      damage:
+        '1': 3.0
+        '2': 2.9
+        '3': 3.1
+        '4': 3.4
+        '5': 3.6
+        '6': 3.8
+        '7': 4.0
+      speed:
+        '1': 1.5
+        '2': 1.7
+        '3': 1.7
+        '4': 1.8
+        '5': 1.9
+        '6': 2.0
+        '7': 2.2
+  rare:
+    pyro:
+      itemtype: flint_and_steel
+      name: '&aPyro'
+      enchants:
+        '1': '&7Fire 1||&cLocked'
+        '2': '&7Fire 2||&cLocked'
+        '3': '&7Fire 3||&cLocked'
+        '4': '&7Fire 4||&cLocked'
+        '5': '&7Fire 4||&cLocked'
+        '6': '&7Fire 4||&7Confusion 1'
+        '7': '&7Fire 4||&7Confusion 2'
+      damage:
+        '1': 2.0
+        '2': 2.2
+        '3': 2.8
+        '4': 3.4
+        '5': 4.0
+        '6': 4.5
+        '7': 5.0
+      speed:
+        '1': 0.9
+        '2': 1.0
+        '3': 1.1
+        '4': 1.2
+        '5': 1.4
+        '6': 1.4
+        '7': 1.5
+    lich's_orb:
+      itemtype: magma_cream
+      name: '&aLich''s Orb'
+      enchants:
+        '1': '&7Life Steal 1||&cLocked'
+        '2': '&7Life Steal 2||&cLocked'
+        '3': '&7Life Steal 3||&cLocked'
+        '4': '&7Life Steal 4||&cLocked'
+        '5': '&7Life Steal 4||&cLocked'
+        '6': '&7Life Steal 4||&7Drain 1'
+        '7': '&7Life Steal 4||&7Drain 2'
+      damage:
+        '1': 5.0
+        '2': 5.2
+        '3': 5.4
+        '4': 5.6
+        '5': 5.8
+        '6': 6.1
+        '7': 6.3
+      speed:
+        '1': 0.8
+        '2': 0.9
+        '3': 1.0
+        '4': 1.1
+        '5': 1.2
+        '6': 1.2
+        '7': 1.3
+    mercenary's_greed:
+      itemtype: diamond_sword
+      name: '&aMercenary''s Greed'
+      enchants:
+        '1': '&7Pickpocket 1||&cLocked'
+        '2': '&7Pickpocket 2||&cLocked'
+        '3': '&7Pickpocket 3||&cLocked'
+        '4': '&7Pickpocket 4||&cLocked'
+        '5': '&7Pickpocket 4||&cLocked'
+        '6': '&7Pickpocket 4||&7Poison 1'
+        '7': '&7Pickpocket 4||&7Poison 2'
+      damage:
+        '1': 5.3
+        '2': 5.9
+        '3': 6.3
+        '4': 6.8
+        '5': 7.2
+        '6': 7.6
+        '7': 8.2
+      speed:
+        '1': 1.2
+        '2': 1.1
+        '3': 1.0
+        '4': 0.95
+        '5': 0.9
+        '6': 0.85
+        '7': 0.9
+    failed_sword:
+      itemtype: wooden_sword
+      name: '&aFailed Sword'
+      enchants:
+        '1': '&7Frail 1||&cLocked'
+        '2': '&7Frail 2||&cLocked'
+        '3': '&7Frail 3||&cLocked'
+        '4': '&7Frail 4||&cLocked'
+        '5': '&7Frail 4||&cLocked'
+        '6': '&7Frail 4||&7Weakness 1'
+        '7': '&7Frail 4||&7Weakness 2'
+      damage:
+        '1': 4.0
+        '2': 4.6
+        '3': 5.0
+        '4': 5.5
+        '5': 5.9
+        '6': 6.5
+        '7': 7.5
+      speed:
+        '1': 0.8
+        '2': 0.85
+        '3': 0.9
+        '4': 0.95
+        '5': 1.0
+        '6': 1.0
+        '7': 1.05
+    cyborg_arm:
+      itemtype: brewing_stand
+      name: '&aCyborg Arm'
+      enchants:
+        '1': '&7Shock 1||&cLocked'
+        '2': '&7Shock 2||&cLocked'
+        '3': '&7Shock 3||&cLocked'
+        '4': '&7Shock 4||&cLocked'
+        '5': '&7Shock 4||&cLocked'
+        '6': '&7Shock 4||&7Heavy Hand 1'
+        '7': '&7Shock 4||&7Heavy Hand 2'
+      damage:
+        '1': 3.3
+        '2': 3.5
+        '3': 3.7
+        '4': 3.9
+        '5': 4.4
+        '6': 4.6
+        '7': 5.1
+      speed:
+        '1': 0.9
+        '2': 1.0
+        '3': 1.1
+        '4': 1.3
+        '5': 1.35
+        '6': 1.4
+        '7': 1.5
+    bone_scythe:
+      itemtype: iron_hoe
+      name: '&aBone Scythe'
+      enchants:
+        '1': '&7Head Hunter 1||&cLocked'
+        '2': '&7Head Hunter 2||&cLocked'
+        '3': '&7Head Hunter 3||&cLocked'
+        '4': '&7Head Hunter 4||&cLocked'
+        '5': '&7Head Hunter 4||&cLocked'
+        '6': '&7Head Hunter 4||&7Beserk 1'
+        '7': '&7Head Hunter 4||&7Beserk 2'
+      damage:
+        '1': 6.3
+        '2': 6.6
+        '3': 6.9
+        '4': 7.1
+        '5': 7.4
+        '6': 7.6
+        '7': 7.8
+      speed:
+        '1': 0.4
+        '2': 0.6
+        '3': 0.7
+        '4': 0.9
+        '5': 1.0
+        '6': 1.1
+        '7': 1.1
+    wand_of_corruption:
+      itemtype: downward redstone torch
+      name: '&aWand of Corruption'
+      enchants:
+        '1': '&7Corrupt 1||&cLocked'
+        '2': '&7Corrupt 2||&cLocked'
+        '3': '&7Corrupt 3||&cLocked'
+        '4': '&7Corrupt 4||&cLocked'
+        '5': '&7Corrupt 4||&cLocked'
+        '6': '&7Corrupt 4||&7Blind 1'
+        '7': '&7Corrupt 4||&7Blind 2'
+      damage:
+        '1': 3.0
+        '2': 3.3
+        '3': 3.45
+        '4': 3.6
+        '5': 3.8
+        '6': 3.9
+        '7': 4.0
+      speed:
+        '1': 0.9
+        '2': 1.0
+        '3': 1.1
+        '4': 1.2
+        '5': 1.3
+        '6': 1.4
+        '7': 1.45
+    fortified_wand:
+      itemtype: stick
+      name: '&aFortified Wand'
+      enchants:
+        '1': '&7Life Steal 1||&cLocked'
+        '2': '&7Life Steal 2||&cLocked'
+        '3': '&7Life Steal 3||&cLocked'
+        '4': '&7Life Steal 4||&cLocked'
+        '5': '&7Life Steal 4||&cLocked'
+        '6': '&7Life Steal 4||&7Bleed 1'
+        '7': '&7Life Steal 4||&7Bleed 2'
+      damage:
+        '1': 4.0
+        '2': 4.2
+        '3': 4.3
+        '4': 4.4
+        '5': 4.6
+        '6': 4.8
+        '7': 5.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.1
+        '4': 1.15
+        '5': 1.15
+        '6': 1.15
+        '7': 1.2
+    bone_sword:
+      itemtype: bone
+      name: '&aBone Sword'
+      enchants:
+        '1': '&7Wolf Pack 1||&cLocked'
+        '2': '&7Wolf Pack 2||&cLocked'
+        '3': '&7Wolf Pack 3||&cLocked'
+        '4': '&7Wolf Pack 4||&7Slow 1'
+        '5': '&7Wolf Pack 4||&7Slow 2'
+        '6': '&7Wolf Pack 4||&7Slow 3'
+        '7': '&7Wolf Pack 4||&7Slow 4'
+      damage:
+        '1': 10.0
+        '2': 12.25
+        '3': 10.0
+        '4': 11.25
+        '5': 13.5
+        '6': 13.75
+        '7': 14.25
+      speed:
+        '1': 0.4
+        '2': 0.4
+        '3': 0.6
+        '4': 0.6
+        '5': 0.65
+        '6': 0.7
+        '7': 0.85
+    butcher's_club:
+      itemtype: golden_hoe
+      name: '&aButcher''s Club'
+      enchants:
+        '1': '&7XP Boost 1||&cLocked'
+        '2': '&7XP Boost 2||&cLocked'
+        '3': '&7XP Boost 3||&cLocked'
+        '4': '&7XP Boost 4||&7Beserk 1'
+        '5': '&7XP Boost 4||&7Beserk 2'
+        '6': '&7XP Boost 4||&7Beserk 3'
+        '7': '&7XP Boost 4||&7Beserk 4'
+      damage:
+        '1': 8.0
+        '2': 8.2
+        '3': 8.5
+        '4': 8.7
+        '5': 9.0
+        '6': 9.0
+        '7': 9.2
+      speed:
+        '1': 0.3
+        '2': 0.4
+        '3': 0.4
+        '4': 0.5
+        '5': 0.5
+        '6': 0.6
+        '7': 0.6
+    carbon_sword:
+      itemtype: diamond_sword
+      name: '&aCarbon Sword'
+      enchants:
+        '1': '&7Heavy Hand 1||&cLocked'
+        '2': '&7Heavy Hand 2||&cLocked'
+        '3': '&7Heavy Hand 3||&cLocked'
+        '4': '&7Heavy Hand 4||&7Slow 1'
+        '5': '&7Heavy Hand 4||&7Slow 2'
+        '6': '&7Heavy Hand 4||&7Slow 3'
+        '7': '&7Heavy Hand 4||&7Slow 4'
+      damage:
+        '1': 2.25
+        '2': 2.75
+        '3': 3.0
+        '4': 3.2
+        '5': 4.0
+        '6': 4.1
+        '7': 4.8
+      speed:
+        '1': 1.8
+        '2': 2.0
+        '3': 2.0
+        '4': 2.0
+        '5': 2.0
+        '6': 2.2
+        '7': 2.2
+  epic:
+    gladiator's_spear:
+      itemtype: iron_shovel
+      name: '&5Gladiator''s Spear'
+      enchants:
+        '1': '&7Focus 1||&cLocked'
+        '2': '&7Focus 2||&cLocked'
+        '3': '&7Focus 3||&cLocked'
+        '4': '&7Focus 4||&7Corrupt 1'
+        '5': '&7Focus 4||&7Corrupt 2'
+        '6': '&7Focus 4||&7Corrupt 3'
+        '7': '&7Focus 4||&7Corrupt 4'
+      damage:
+        '1': 6.1
+        '2': 6.4
+        '3': 6.8
+        '4': 7.1
+        '5': 7.3
+        '6': 7.5
+        '7': 7.8
+      speed:
+        '1': 0.7
+        '2': 0.8
+        '3': 0.85
+        '4': 0.9
+        '5': 0.95
+        '6': 1.0
+        '7': 1.1
+    dismantler:
+      itemtype: hopper
+      name: '&5Dismantler'
+      enchants:
+        '1': '&7Disarmor 1||&cLocked'
+        '2': '&7Disarmor 2||&cLocked'
+        '3': '&7Disarmor 3||&cLocked'
+        '4': '&7Disarmor 4||&7Disarm 1'
+        '5': '&7Disarmor 4||&7Disarm 2'
+        '6': '&7Disarmor 4||&7Disarm 3'
+        '7': '&7Disarmor 4||&7Disarm 4'
+      damage:
+        '1': 4.0
+        '2': 4.3
+        '3': 4.5
+        '4': 5.2
+        '5': 5.3
+        '6': 5.4
+        '7': 5.6
+      speed:
+        '1': 0.9
+        '2': 1.0
+        '3': 1.15
+        '4': 1.2
+        '5': 1.3
+        '6': 1.4
+        '7': 1.5
+    farmer's_scythe:
+      itemtype: diamond_hoe
+      name: '&5Farmer''s Scythe'
+      enchants:
+        '1': '&7XP Boost 1||&cLocked'
+        '2': '&7XP Boost 2||&cLocked'
+        '3': '&7XP Boost 3||&cLocked'
+        '4': '&7XP Boost 4||&7Shock 1'
+        '5': '&7XP Boost 4||&7Shock 2'
+        '6': '&7XP Boost 4||&7Shock 3'
+        '7': '&7XP Boost 4||&7Shock 4'
+      damage:
+        '1': 8.0
+        '2': 8.5
+        '3': 9.0
+        '4': 9.5
+        '5': 10.0
+        '6': 10.5
+        '7': 11.0
+      speed:
+        '1': 0.7
+        '2': 0.71
+        '3': 0.72
+        '4': 0.73
+        '5': 0.74
+        '6': 0.75
+        '7': 0.8
+    enchantress's_curse:
+      itemtype: fermented_spider_eye
+      name: '&5Enchantress''s Curse'
+      enchants:
+        '1': '&7Curse 1||&cLocked'
+        '2': '&7Curse 2||&cLocked'
+        '3': '&7Curse 3||&cLocked'
+        '4': '&7Curse 4||&7Poison 1'
+        '5': '&7Curse 4||&7Poison 2'
+        '6': '&7Curse 4||&7Poison 3'
+        '7': '&7Curse 4||&7Poison 4'
+      damage:
+        '1': 5.0
+        '2': 5.3
+        '3': 5.5
+        '4': 6.0
+        '5': 6.1
+        '6': 6.2
+        '7': 6.4
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.15
+        '4': 1.2
+        '5': 1.25
+        '6': 1.3
+        '7': 1.4
+    paladin's_mace:
+      itemtype: iron_axe
+      name: '&5Paladin''s Mace'
+      enchants:
+        '1': '&7Radiance 1||&cLocked'
+        '2': '&7Radiance 2||&cLocked'
+        '3': '&7Radiance 3||&cLocked'
+        '4': '&7Radiance 4||&7Beserk 1'
+        '5': '&7Radiance 4||&7Beserk 2'
+        '6': '&7Radiance 4||&7Beserk 3'
+        '7': '&7Radiance 4||&7Beserk 4'
+      damage:
+        '1': 6.8
+        '2': 7.1
+        '3': 7.4
+        '4': 7.6
+        '5': 7.7
+        '6': 7.8
+        '7': 7.9
+      speed:
+        '1': 0.7
+        '2': 0.8
+        '3': 0.9
+        '4': 1.0
+        '5': 1.05
+        '6': 1.1
+        '7': 1.15
+    great_warhammer:
+      itemtype: iron_pickaxe
+      name: '&5Great Warhammer'
+      enchants:
+        '1': '&7Bash 1||&cLocked'
+        '2': '&7Bash 2||&cLocked'
+        '3': '&7Bash 3||&cLocked'
+        '4': '&7Bash 4||&7Push 1'
+        '5': '&7Bash 4||&7Push 2'
+        '6': '&7Bash 4||&7Push 3'
+        '7': '&7Bash 4||&7Push 4'
+      damage:
+        '1': 6.0
+        '2': 6.5
+        '3': 7.0
+        '4': 7.5
+        '5': 8.0
+        '6': 8.5
+        '7': 9.0
+      speed:
+        '1': 0.5
+        '2': 0.6
+        '3': 0.7
+        '4': 0.8
+        '5': 0.9
+        '6': 1.0
+        '7': 1.05
+    apprentice's_wand:
+      itemtype: stick
+      name: '&5Apprentice''s Wand'
+      enchants:
+        '1': '&7Gust 1||&cLocked'
+        '2': '&7Gust 2||&cLocked'
+        '3': '&7Gust 3||&cLocked'
+        '4': '&7Gust 4||&7Snare 1'
+        '5': '&7Gust 4||&7Snare 2'
+        '6': '&7Gust 4||&7Snare 3'
+        '7': '&7Gust 4||&7Snare 4'
+      damage:
+        '1': 4.0
+        '2': 4.7
+        '3': 5.2
+        '4': 5.9
+        '5': 6.4
+        '6': 7.0
+        '7': 7.6
+      speed:
+        '1': 0.7
+        '2': 0.8
+        '3': 0.9
+        '4': 1.0
+        '5': 1.05
+        '6': 1.1
+        '7': 1.2
+    wand_o'_experience:
+      itemtype: torch
+      name: '&5Wand o'' Experience'
+      enchants:
+        '1': '&7XP Boost 1||&cLocked'
+        '2': '&7XP Boost 2||&cLocked'
+        '3': '&7XP Boost 3||&cLocked'
+        '4': '&7XP Boost 4||&7Ignite 1'
+        '5': '&7XP Boost 4||&7Ignite 2'
+        '6': '&7XP Boost 4||&7Ignite 3'
+        '7': '&7XP Boost 4||&7Ignite 4'
+      damage:
+        '1': 3.5
+        '2': 4.1
+        '3': 4.7
+        '4': 5.2
+        '5': 5.4
+        '6': 5.8
+        '7': 6.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.3
+        '4': 1.3
+        '5': 1.4
+        '6': 1.5
+        '7': 1.55
+    tesla_coil:
+      itemtype: Tripwire_hook
+      name: '&5Tesla Coil'
+      enchants:
+        '1': '&7Paralyze 1||&cLocked'
+        '2': '&7Paralyze 2||&cLocked'
+        '3': '&7Paralyze 3||&cLocked'
+        '4': '&7Paralyze 4||&7Weakness 1'
+        '5': '&7Paralyze 4||&7Weakness 2'
+        '6': '&7Paralyze 4||&7Weakness 3'
+        '7': '&7Paralyze 4||&7Weakness 4'
+      damage:
+        '1': 3.2
+        '2': 3.25
+        '3': 3.5
+        '4': 3.5
+        '5': 3.2
+        '6': 3.15
+        '7': 3.45
+      speed:
+        '1': 1.8
+        '2': 2.2
+        '3': 2.0
+        '4': 2.3
+        '5': 2.4
+        '6': 2.2
+        '7': 2.1
+    unholy_might:
+      itemtype: diamond_axe
+      name: '&5Unholy Might'
+      enchants:
+        '1': '&7Wither 1||&cLocked'
+        '2': '&7Wither 2||&cLocked'
+        '3': '&7Wither 3||&cLocked'
+        '4': '&7Wither 4||&7Blind 1'
+        '5': '&7Wither 4||&7Blind 2'
+        '6': '&7Wither 4||&7Blind 3'
+        '7': '&7Wither 4||&7Blind 4'
+      damage:
+        '1': 5.0
+        '2': 5.25
+        '3': 6.25
+        '4': 5.5
+        '5': 7.5
+        '6': 6.5
+        '7': 7.0
+      speed:
+        '1': 1.0
+        '2': 1.25
+        '3': 1.35
+        '4': 1.3
+        '5': 1.2
+        '6': 1.2
+        '7': 1.35
+    rusty_shears:
+      itemtype: shears
+      name: '&5Rusty Shears'
+      enchants:
+        '1': '&7Poison 1||&cLocked'
+        '2': '&7Poison 2||&cLocked'
+        '3': '&7Poison 3||&cLocked'
+        '4': '&7Poison 4||&7Disarmor 1'
+        '5': '&7Poison 4||&7Disarmor 2'
+        '6': '&7Poison 4||&7Disarmor 3'
+        '7': '&7Poison 4||&7Disarmor 4'
+      damage:
+        '1': 3.15
+        '2': 3.25
+        '3': 3.9
+        '4': 3.8
+        '5': 3.5
+        '6': 3.35
+        '7': 4.0
+      speed:
+        '1': 1.6
+        '2': 1.5
+        '3': 1.8
+        '4': 1.8
+        '5': 1.7
+        '6': 1.5
+        '7': 1.8
+    stick_of_truth:
+      itemtype: stick
+      name: '&5Stick of Truth'
+      enchants:
+        '1': '&7Blind 1||&cLocked'
+        '2': '&7Blind 2||&cLocked'
+        '3': '&7Blind 3||&cLocked'
+        '4': '&7Blind 4||&7Disarmor 1'
+        '5': '&7Blind 4||&7Disarmor 2'
+        '6': '&7Blind 4||&7Disarmor 3'
+        '7': '&7Blind 4||&7Disarmor 4'
+      damage:
+        '1': 8.0
+        '2': 8.25
+        '3': 8.75
+        '4': 10.0
+        '5': 10.0
+        '6': 10.25
+        '7': 8.75
+      speed:
+        '1': 0.6
+        '2': 0.6
+        '3': 0.8
+        '4': 0.8
+        '5': 0.7
+        '6': 0.8
+        '7': 0.8
+  legendary:
+    excalibur:
+      itemtype: gold_sword
+      name: '&cExcalibur'
+      enchants:
+        '1': '&7Slash 1||&cLocked'
+        '2': '&7Slash 2||&cLocked'
+        '3': '&7Slash 3||&cLocked'
+        '4': '&7Slash 4||&7Radiance 1'
+        '5': '&7Slash 4||&7Radiance 2'
+        '6': '&7Slash 4||&7Radiance 3'
+        '7': '&7Slash 4||&7Radiance 4'
+      ability: '&cScabbard &7Summon the||&7lost scabbard and give||&7all allies within
+        10 blocks||&7Resistance 1'
+      damage:
+        '1': 6.3
+        '2': 6.6
+        '3': 7.3
+        '4': 7.6
+        '5': 8.3
+        '6': 8.6
+        '7': 9.3
+      speed:
+        '1': 0.7
+        '2': 0.8
+        '3': 0.9
+        '4': 1.0
+        '5': 1.05
+        '6': 1.1
+        '7': 1.15
+    alchemist's_calamity:
+      itemtype: ghast_tear
+      name: '&cAlchemist''s Calamity'
+      enchants:
+        '1': '&7Rot 1||&cLocked'
+        '2': '&7Rot 2||&cLocked'
+        '3': '&7Rot 3||&cLocked'
+        '4': '&7Rot 4||&7Disarmor 1'
+        '5': '&7Rot 4||&7Disarmor 2'
+        '6': '&7Rot 4||&7Disarmor 3'
+        '7': '&7Rot 4||&7Disarmor 4'
+      ability: '&cHazardous &7Throw a||&7potion inflicting Poison,||&7Hunger and Weakness||&7onto
+        all players within||&75 blocks'
+      damage:
+        '1': 4.65
+        '2': 4.85
+        '3': 5.0
+        '4': 5.2
+        '5': 5.5
+        '6': 5.6
+        '7': 6.1
+      speed:
+        '1': 1.4
+        '2': 1.4
+        '3': 1.5
+        '4': 1.55
+        '5': 1.6
+        '6': 1.6
+        '7': 1.7
+    holy_axe:
+      itemtype: gold_axe
+      name: '&cHoly Axe'
+      enchants:
+        '1': '&7Paralyze 1||&cLocked'
+        '2': '&7Paralyze 2||&cLocked'
+        '3': '&7Paralyze 3||&cLocked'
+        '4': '&7Paralyze 4||&7Bash 1'
+        '5': '&7Paralyze 4||&7Bash 2'
+        '6': '&7Paralyze 4||&7Bash 3'
+        '7': '&7Paralyze 4||&7Bash 4'
+      ability: '&cRetribution &7Call down||&7divine punishment on the||&7nearest player
+        dealing||&75 hearts of damage'
+      damage:
+        '1': 6.3
+        '2': 6.5
+        '3': 7.0
+        '4': 7.5
+        '5': 7.6
+        '6': 7.9
+        '7': 8.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.2
+        '4': 1.3
+        '5': 1.35
+        '6': 1.35
+        '7': 1.4
+    righteous_might:
+      itemtype: diamond_axe
+      name: '&cRighteous Might'
+      enchants:
+        '1': '&7Devotion 1||&cLocked'
+        '2': '&7Devotion 2||&cLocked'
+        '3': '&7Devotion 3||&cLocked'
+        '4': '&7Devotion 4||&7Levitation 1'
+        '5': '&7Devotion 4||&7Levitation 2'
+        '6': '&7Devotion 4||&7Levitation 3'
+        '7': '&7Devotion 4||&7Levitation 4'
+      ability: '&cJudgement &7Strike all||&7nearby opponents with||&7lightning dealing
+        10% of||&7their health in damage||&7maxing at 5 hearts'
+      damage:
+        '1': 8.0
+        '2': 8.3
+        '3': 8.6
+        '4': 9
+        '5': 9.3
+        '6': 9.6
+        '7': 10
+      speed:
+        '1': 0.6
+        '2': 0.65
+        '3': 0.7
+        '4': 0.75
+        '5': 0.85
+        '6': 0.95
+        '7': 1.1
+    deadly_dagger:
+      itemtype: prismarine_shard
+      name: '&cDeadly Dagger'
+      enchants:
+        '1': '&7Quick Attack 1||&cLocked'
+        '2': '&7Quick Attack 2||&cLocked'
+        '3': '&7Quick Attack 3||&cLocked'
+        '4': '&7Quick Attack 4||&7Bleed 1'
+        '5': '&7Quick Attack 4||&7Bleed 2'
+        '6': '&7Quick Attack 4||&7Bleed 3'
+        '7': '&7Quick Attack 4||&7Bleed 4'
+      ability: '&cVanish &7Become invisible||&7for 3 seconds without||&7particles'
+      damage:
+        '1': 4.0
+        '2': 4.4
+        '3': 4.6
+        '4': 4.8
+        '5': 5.0
+        '6': 5.3
+        '7': 5.6
+      speed:
+        '1': 0.9
+        '2': 1.0
+        '3': 1.1
+        '4': 1.2
+        '5': 1.3
+        '6': 1.4
+        '7': 1.6
+    celestial_hammer:
+      itemtype: gold_pickaxe
+      name: '&cCelestial Hammer'
+      enchants:
+        '1': '&7Massacre 1||&cLocked'
+        '2': '&7Massacre 2||&cLocked'
+        '3': '&7Massacre 3||&cLocked'
+        '4': '&7Massacre 4||&7Snare 1'
+        '5': '&7Massacre 4||&7Snare 2'
+        '6': '&7Massacre 4||&7Snare 3'
+        '7': '&7Massacre 4||&7Snare 4'
+      ability: '&cLunar Form &7Gain speed||&73 and Strength 3 for||&75 seconds'
+      damage:
+        '1': 8.0
+        '2': 8.3
+        '3': 8.9
+        '4': 9.2
+        '5': 9.8
+        '6': 10.3
+        '7': 11.0
+      speed:
+        '1': 0.7
+        '2': 0.75
+        '3': 0.8
+        '4': 0.85
+        '5': 0.9
+        '6': 0.95
+        '7': 1.0
+    spectral_wand:
+      itemtype: blaze_rod
+      name: '&cSpectral Wand'
+      enchants:
+        '1': '&7Void 1||&cLocked'
+        '2': '&7Void 2||&cLocked'
+        '3': '&7Void 3||&cLocked'
+        '4': '&7Void 4||&7Gust 1'
+        '5': '&7Void 4||&7Gust 2'
+        '6': '&7Void 4||&7Gust 3'
+        '7': '&7Void 4||&7Gust 4'
+      ability: '&cFast Feet &7Gain speed 3||&7for 10 seconds'
+      damage:
+        '1': 4.0
+        '2': 4.4
+        '3': 4.6
+        '4': 4.8
+        '5': 5.0
+        '6': 5.4
+        '7': 5.6
+      speed:
+        '1': 0.7
+        '2': 0.75
+        '3': 0.8
+        '4': 0.9
+        '5': 1.0
+        '6': 1.3
+        '7': 1.5
+    mage's_wand:
+      itemtype: stick
+      name: '&cMage''s Wand'
+      enchants:
+        '1': '&7Fireball 1||&cLocked'
+        '2': '&7Fireball 2||&cLocked'
+        '3': '&7Fireball 3||&cLocked'
+        '4': '&7Fireball 4||&7Blind 1'
+        '5': '&7Fireball 4||&7Blind 2'
+        '6': '&7Fireball 4||&7Blind 3'
+        '7': '&7Fireball 4||&7Blind 4'
+      ability: '&cAcid &7Throw acid at all||&7enemies within 10 blocks||&7doing 4
+        hearts pierce||&7damage'
+      damage:
+        '1': 5.0
+        '2': 5.5
+        '3': 5.9
+        '4': 6.1
+        '5': 6.5
+        '6': 6.9
+        '7': 7.2
+      speed:
+        '1': 1.0
+        '2': 1.0
+        '3': 1.05
+        '4': 1.05
+        '5': 1.1
+        '6': 1.1
+        '7': 1.1
+    shulker's_bane:
+      itemtype: end_rod
+      name: '&cShulker''s Bane'
+      enchants:
+        '1': '&7Levitation 1||&7Disarmor 1||&cLocked'
+        '2': '&7Levitation 2||&7Disarmor 2||&cLocked'
+        '3': '&7Levitation 3||&7Disarmor 3||&cLocked'
+        '4': '&7Levitation 4||&7Disarmor 4||&7Bleed 1'
+        '5': '&7Levitation 4||&7Disarmor 4||&7Bleed 2'
+        '6': '&7Levitation 4||&7Disarmor 4||&7Bleed 3'
+        '7': '&7Levitation 4||&7Disarmor 4||&7Bleed 4'
+      damage:
+        '1': 4.65
+        '2': 5.35
+        '3': 5.25
+        '4': 4.25
+        '5': 5.5
+        '6': 4.5
+        '7': 5.85
+      speed:
+        '1': 1.4
+        '2': 1.4
+        '3': 1.5
+        '4': 1.7
+        '5': 1.6
+        '6': 1.7
+        '7': 1.5
+    king's_sword:
+      itemtype: gold_sword
+      name: '&cKing''s Sword'
+      enchants:
+        '1': '&7Bleed 1||&7Spectral 1||&cLocked'
+        '2': '&7Bleed 2||&7Spectral 2||&cLocked'
+        '3': '&7Bleed 3||&7Spectral 3||&cLocked'
+        '4': '&7Bleed 4||&7Spectral 4||&7Head Hunter 1'
+        '5': '&7Bleed 4||&7Spectral 4||&7Head Hunter 2'
+        '6': '&7Bleed 4||&7Spectral 4||&7Head Hunter 3'
+        '7': '&7Bleed 4||&7Spectral 4||&7Head Hunter 4'
+      damage:
+        '1': 6.5
+        '2': 7.5
+        '3': 8.0
+        '4': 7.5
+        '5': 8.0
+        '6': 8.2
+        '7': 8.5
+      speed:
+        '1': 1.1
+        '2': 1.2
+        '3': 1.2
+        '4': 1.1
+        '5': 1.2
+        '6': 1.4
+        '7': 1.5
+    dragon's_breath:
+      itemtype: blaze_rod
+      name: '&cDragon''s Breath'
+      enchants:
+        '1': '&7Fireball 1||&cLocked'
+        '2': '&7Fireball 2||&cLocked'
+        '3': '&7Fireball 3||&cLocked'
+        '4': '&7Fireball 4||&7Blind 1'
+        '5': '&7Fireball 4||&7Blind 2'
+        '6': '&7Fireball 4||&7Blind 3'
+        '7': '&7Fireball 4||&7Blind 4'
+      damage:
+        '1': 16.25
+        '2': 18.25
+        '3': 17.25
+        '4': 14.25
+        '5': 15.75
+        '6': 15.25
+        '7': 16.25
+      speed:
+        '1': 0.6
+        '2': 0.3
+        '3': 0.5
+        '4': 0.6
+        '5': 0.6
+        '6': 0.7
+        '7': 0.8
+    carrot_on_a_stick:
+      itemtype: carrot_on_a_stick
+      name: '&cCarrot On A Stick'
+      enchants:
+        '1': '&7Faction Heal 1||&cLocked'
+        '2': '&7Faction Heal 2||&cLocked'
+        '3': '&7Faction Heal 3||&cLocked'
+        '4': '&7Faction Heal 4||&7Featherweight 1'
+        '5': '&7Faction Heal 4||&7Featherweight 2'
+        '6': '&7Faction Heal 4||&7Featherweight 3'
+        '7': '&7Faction Heal 4||&7Featherweight 4'
+      damage:
+        '1': 12.25
+        '2': 12.5
+        '3': 10.65
+        '4': 11.9
+        '5': 13.45
+        '6': 12.25
+        '7': 14.25
+      speed:
+        '1': 0.7
+        '2': 0.6
+        '3': 0.8
+        '4': 0.8
+        '5': 0.6
+        '6': 0.7
+        '7': 0.6
+  mythic:
+    mjölnir:
+      itemtype: stone_pickaxe
+      name: '&bMjölnir'
+      enchants:
+        '1': '&7Paralyze 1||&cLocked||&cLocked'
+        '2': '&7Paralyze 2||&7Bash 1||&cLocked'
+        '3': '&7Paralyze 3||&7Bash 2||&cLocked'
+        '4': '&7Paralyze 4||&7Bash 3||&7Shock 1'
+        '5': '&7Paralyze 4||&7Bash 4||&7Shock 2'
+        '6': '&7Paralyze 4||&7Bash 4||&7Shock 3'
+        '7': '&7Paralyze 4||&7Bash 4||&7Shock 4'
+      ability: '&bDischarge &7Strike lightning||&7at all nearby enemies||&7doing 5
+        hearts of||&7pierce damage'
+      damage:
+        '1': 9.0
+        '2': 9.4
+        '3': 10.0
+        '4': 10.6
+        '5': 11.0
+        '6': 11.9
+        '7': 12.3
+      speed:
+        '1': 0.75
+        '2': 0.75
+        '3': 0.8
+        '4': 0.85
+        '5': 0.9
+        '6': 0.95
+        '7': 1.0
+    gold_scythe:
+      itemtype: gold_hoe
+      name: '&bGold Scythe'
+      enchants:
+        '1': '&7Pull 1||&cLocked||&cLocked'
+        '2': '&7Pull 2||&7Bleed 1||&cLocked'
+        '3': '&7Pull 3||&7Bleed 2||&cLocked'
+        '4': '&7Pull 4||&7Bleed 3||&7Life Steal 1'
+        '5': '&7Pull 4||&7Bleed 4||&7Life Steal 2'
+        '6': '&7Pull 4||&7Bleed 4||&7Life Steal 3'
+        '7': '&7Pull 4||&7Bleed 4||&7Life Steal 4'
+      ability: '&bCut &7Spin your scythe||&7around cutting every||&7nearby enemy down||&7dealing
+        5 damage and||&7inflicting Bleed'
+      damage:
+        '1': 7.0
+        '2': 7.1
+        '3': 7.3
+        '4': 7.4
+        '5': 7.6
+        '6': 7.8
+        '7': 8.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.2
+        '4': 1.3
+        '5': 1.4
+        '6': 1.5
+        '7': 1.6
+    warlord's_hammer:
+      itemtype: diamond_pickaxe
+      name: '&bWarlord''s Hammer'
+      enchants:
+        '1': '&7Shatter 1||&cLocked||&cLocked'
+        '2': '&7Shatter 2||&7Snare 1||&cLocked'
+        '3': '&7Shatter 3||&7Snare 2||&cLocked'
+        '4': '&7Shatter 4||&7Snare 3||&7Blind 1'
+        '5': '&7Shatter 4||&7Snare 4||&7Blind 2'
+        '6': '&7Shatter 4||&7Snare 4||&7Blind 3'
+        '7': '&7Shatter 4||&7Snare 4||&7Blind 4'
+      ability: '&bCrusher &7Drop an anvil||&7ontop of all enemies||&7within 5 blocks
+        dealing 5||&7hearts pierce and||&7applying Slowness'
+      damage:
+        '1': 6.0
+        '2': 6.5
+        '3': 7.2
+        '4': 7.9
+        '5': 8.4
+        '6': 9.1
+        '7': 10.0
+      speed:
+        '1': 1.0
+        '2': 1.05
+        '3': 1.1
+        '4': 1.15
+        '5': 1.2
+        '6': 1.2
+        '7': 1.25
+    gold_trident:
+      itemtype: gold_shovel
+      name: '&bGold Trident'
+      enchants:
+        '1': '&7Impale 1||&cLocked||&cLocked'
+        '2': '&7Impale 2||&7Swing 1||&cLocked'
+        '3': '&7Impale 3||&7Swing 2||&cLocked'
+        '4': '&7Impale 4||&7Swing 3||&7Aquatic 1'
+        '5': '&7Impale 4||&7Swing 4||&7Aquatic 2'
+        '6': '&7Impale 4||&7Swing 4||&7Aquatic 3'
+        '7': '&7Impale 4||&7Swing 4||&7Aquatic 4'
+      ability: '&bThunder Wave &7Strike all||&7enemies within 5 blocks||&7with lightning
+        dealing 4||&7hearts pierce'
+      damage:
+        '1': 7.0
+        '2': 7.3
+        '3': 7.5
+        '4': 8.0
+        '5': 8.5
+        '6': 9.1
+        '7': 10.0
+      speed:
+        '1': 0.8
+        '2': 0.9
+        '3': 0.95
+        '4': 1.0
+        '5': 1.05
+        '6': 1.1
+        '7': 1.2
+    reaper:
+      itemtype: stone_hoe
+      name: '&bReaper'
+      enchants:
+        '1': '&7Wrath 1||&cLocked||&cLocked'
+        '2': '&7Wrath 2||&7Life Steal 1||&cLocked'
+        '3': '&7Wrath 3||&7Life Steal 2||&cLocked'
+        '4': '&7Wrath 4||&7Life Steal 3||&7Massacre 1'
+        '5': '&7Wrath 4||&7Life Steal 4||&7Massacre 2'
+        '6': '&7Wrath 4||&7Life Steal 4||&7Massacre 3'
+        '7': '&7Wrath 4||&7Life Steal 4||&7Massacre 4'
+      ability: '&bDecay &7Inflict Wither 2||&7for 5 seconds on all||&7enemies within
+        7 blocks'
+      damage:
+        '1': 8.0
+        '2': 8.2
+        '3': 8.4
+        '4': 8.7
+        '5': 9.2
+        '6': 9.6
+        '7': 10.0
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.15
+        '4': 1.2
+        '5': 1.25
+        '6': 1.25
+        '7': 1.3
+    chain_blades:
+      itemtype: fishing_rod
+      name: '&bChain Blades'
+      enchants:
+        '1': '&7Chain 1||&cLocked||&cLocked'
+        '2': '&7Chain 2||&7Slash 1||&cLocked'
+        '3': '&7Chain 3||&7Slash 2||&cLocked'
+        '4': '&7Chain 4||&7Slash 3||&7Beserk 1'
+        '5': '&7Chain 4||&7Slash 4||&7Beserk 2'
+        '6': '&7Chain 4||&7Slash 4||&7Beserk 3'
+        '7': '&7Chain 4||&7Slash 4||&7Beserk 4'
+      ability: '&bPull &7Pull the nearest||&7enemy within 10 blocks||&7towards you
+        and Snare||&7them for 3 seconds'
+      damage:
+        '1': 4.0
+        '2': 4.5
+        '3': 5.1
+        '4': 5.6
+        '5': 5.8
+        '6': 6.1
+        '7': 6.2
+      speed:
+        '1': 1.0
+        '2': 1.1
+        '3': 1.15
+        '4': 1.2
+        '5': 1.25
+        '6': 1.35
+        '7': 1.4
+    purity_wand:
+      itemtype: end_rod
+      name: '&bPurity Wand'
+      enchants:
+        '1': '&7Heal 1||&cLocked||&cLocked'
+        '2': '&7Heal 2||&7Petrify 1||&cLocked'
+        '3': '&7Heal 3||&7Petrify 2||&cLocked'
+        '4': '&7Heal 4||&7Petrify 3||&7Cleanse 1'
+        '5': '&7Heal 4||&7Petrify 4||&7Cleanse 2'
+        '6': '&7Heal 4||&7Petrify 4||&7Cleanse 3'
+        '7': '&7Heal 4||&7Petrify 4||&7Cleanse 4'
+      ability: '&bPurification &7Remove all||&7effects from all faction||&7members
+        within 7 blocks||&7and give them Speed 2||&7and Strength 2 for||&720 seconds'
+      damage:
+        '1': 6.0
+        '2': 6.4
+        '3': 6.6
+        '4': 6.8
+        '5': 7.0
+        '6': 7.2
+        '7': 7.5
+      speed:
+        '1': 1.0
+        '2': 1.0
+        '3': 1.1
+        '4': 1.15
+        '5': 1.2
+        '6': 1.2
+        '7': 1.2
+    wizard's_wand:
+      itemtype: blaze_rod
+      name: '&bWizard''s Wand'
+      enchants:
+        '1': '&7Lightning Bolt 1||&cLocked||&cLocked'
+        '2': '&7Lightning Bolt 2||&7Wisdom 1||&cLocked'
+        '3': '&7Lightning Bolt 3||&7Wisdom 2||&cLocked'
+        '4': '&7Lightning Bolt 4||&7Wisdom 3||&7Wither 1'
+        '5': '&7Lightning Bolt 4||&7Wisdom 4||&7Wither 2'
+        '6': '&7Lightning Bolt 4||&7Wisdom 4||&7Wither 3'
+        '7': '&7Lightning Bolt 4||&7Wisdom 4||&7Wither 4'
+      ability: '&bTo Be Added &7soon'
+      damage:
+        '1': 5.0
+        '2': 5.7
+        '3': 6.0
+        '4': 6.3
+        '5': 6.6
+        '6': 6.9
+        '7': 7.2
+      speed:
+        '1': 1.0
+        '2': 1.05
+        '3': 1.1
+        '4': 1.15
+        '5': 1.15
+        '6': 1.2
+        '7': 1.2
+  event:
+    spooky_tunes:
+      itemtype: music_disc_11
+      name: '&6&lS&8&lp&6&lo&8&lo&6&lk&8&ly &6&lT&8&lu&6&ln&8&le&6&ls'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Blind 2||&6Heavy Hand 2||&6Bleed 2||&6Paralyze 2||&6Life Steal 2'
+        '6': '&6Blind 2||&6Heavy Hand 2||&6Bleed 2||&6Paralyze 2||&6Life Steal 2'
+        '7': '&6Blind 2||&6Heavy Hand 2||&6Bleed 2||&6Paralyze 2||&6Life Steal 2'
+      damage:
+        '1': 16.25
+        '2': 4.65
+        '3': 12.0
+        '4': 8.35
+        '5': 12.4
+        '6': 12.4
+        '7': 12.4
+      speed:
+        '1': 0.6
+        '2': 1.6
+        '3': 0.8
+        '4': 1.3
+        '5': 1.2
+        '6': 1.2
+        '7': 1.2
+    present:
+      itemtype: Present
+      name: '&aThe Gift'
+      enchants:
+        '1': '&aParalyze 1||&cLocked||&cLocked||&cLocked'
+        '2': '&aParalyze 2||&aSlow 1||&cLocked||&cLocked'
+        '3': '&aParalyze 3||&aSlow 2||&aLife Steal 1||&cLocked'
+        '4': '&aParalyze 4||&aSlow 3||&aLife Steal 2||&aSnare 1'
+        '5': '&aParalyze 4||&aSlow 4||&aLife Steal 3||&aSnare 2'
+        '6': '&aParalyze 4||&aSlow 4||&aLife Steal 4||&aSnare 3'
+        '7': '&aParalyze 4||&aSlow 4||&aLife Steal 4||&aSnare 4'
+      damage:
+        '1': 8.0
+        '2': 8.5
+        '3': 9.0
+        '4': 9.5
+        '5': 10.0
+        '6': 10.5
+        '7': 11.0
+      speed:
+        '1': 0.2
+        '2': 0.3
+        '3': 0.4
+        '4': 0.5
+        '5': 0.6
+        '6': 0.7
+        '7': 0.8
+bow:
+  common:
+    maple_shortbow:
+      name: '&7Maple Shortbow'
+      enchants:
+        '1': '&7Confusion 1||&cLocked'
+        '2': '&7Confusion 2||&cLocked'
+        '3': '&7Confusion 3||&cLocked'
+        '4': '&7Confusion 4||&cLocked'
+        '5': '&7Confusion 4||&cLocked'
+        '6': '&7Confusion 4||&7Slow 1'
+        '7': '&7Confusion 4||&7Slow 2'
+      damage:
+        '1': 5
+        '2': 6
+        '3': 7
+        '4': 8
+        '5': 9
+        '6': 10
+        '7': 11
+    rusty_bow:
+      name: '&7Rusty Bow'
+      enchants:
+        '1': '&7Debility 1'
+        '2': '&7Debility 1'
+        '3': '&7Debility 2'
+        '4': '&7Debility 2'
+        '5': '&7Debility 3'
+        '6': '&7Debility 3'
+        '7': '&7Debility 4'
+      damage:
+        '1': 5
+        '2': 6
+        '3': 7
+        '4': 8
+        '5': 9
+        '6': 10
+        '7': 11
+    plain_bow:
+      name: '&7Plain Bow'
+      enchants:
+        '1': '&7Slow 1'
+        '2': '&7Slow 1'
+        '3': '&7Slow 2'
+        '4': '&7Slow 2'
+        '5': '&7Slow 3'
+        '6': '&7Slow 3'
+        '7': '&7Slow 4'
+      damage:
+        '1': 3
+        '2': 4
+        '3': 5
+        '4': 7
+        '5': 8
+        '6': 10
+        '7': 12
+    old_bow:
+      name: '&7Old Bow'
+      enchants:
+        '1': '&7Confusion 1'
+        '2': '&7Confusion 1'
+        '3': '&7Confusion 2'
+        '4': '&7Confusion 2'
+        '5': '&7Confusion 3'
+        '6': '&7Confusion 3'
+        '7': '&7Confusion 4'
+      damage:
+        '1': 4
+        '2': 6
+        '3': 6
+        '4': 8
+        '5': 9
+        '6': 10
+        '7': 11
+    oak_bow:
+      name: '&7Oak Bow'
+      enchants:
+        '1': '&7Poison 1||&cLocked'
+        '2': '&7Poison 2||&cLocked'
+        '3': '&7Poison 3||&cLocked'
+        '4': '&7Poison 4||&7Slow 1'
+        '5': '&7Poison 4||&7Slow 2'
+        '6': '&7Poison 4||&7Slow 3'
+        '7': '&7Poison 4||&7Slow 4'
+      damage:
+        '1': 5
+        '2': 6
+        '3': 7
+        '4': 8
+        '5': 9
+        '6': 10
+        '7': 11
+  rare:
+    fury_bow:
+      name: '&aFury Bow'
+      enchants:
+        '1': '&7Bleed 1||&cLocked'
+        '2': '&7Bleed 2||&cLocked'
+        '3': '&7Bleed 3||&cLocked'
+        '4': '&7Bleed 4||&7Disarmor 1'
+        '5': '&7Bleed 4||&7Disarmor 2'
+        '6': '&7Bleed 4||&7Disarmor 3'
+        '7': '&7Bleed 4||&7Disarmor 4'
+      damage:
+        '1': 7
+        '2': 8
+        '3': 9
+        '4': 10
+        '5': 11
+        '6': 12
+        '7': 13
+    dread_bow:
+      name: '&aDread Bow'
+      enchants:
+        '1': '&7Fear 1||&cLocked'
+        '2': '&7Fear 2||&cLocked'
+        '3': '&7Fear 3||&cLocked'
+        '4': '&7Fear 4||&cLocked'
+        '5': '&7Fear 4||&cLocked'
+        '6': '&7Fear 4||&7Bleed 1'
+        '7': '&7Fear 4||&7Bleed 2'
+      damage:
+        '1': 5
+        '2': 7
+        '3': 8
+        '4': 9
+        '5': 10
+        '6': 12
+        '7': 13
+    poisonous_bow:
+      name: '&aPoisonous Bow'
+      enchants:
+        '1': '&7Poison 1||&cLocked'
+        '2': '&7Poison 2||&cLocked'
+        '3': '&7Poison 3||&cLocked'
+        '4': '&7Poison 4||&cLocked'
+        '5': '&7Poison 4||&cLocked'
+        '6': '&7Poison 4||&7Paralyze 1'
+        '7': '&7Poison 4||&7Paralyze 2'
+      damage:
+        '1': 6
+        '2': 8
+        '3': 10
+        '4': 11
+        '5': 12
+        '6': 13
+        '7': 13
+    drought_bow:
+      name: '&aDrought Bow'
+      enchants:
+        '1': '&7Life Steal 1||&cLocked'
+        '2': '&7Life Steal 2||&cLocked'
+        '3': '&7Life Steal 3||&cLocked'
+        '4': '&7Life Steal 4||&cLocked'
+        '5': '&7Life Steal 4||&cLocked'
+        '6': '&7Life Steal 4||&7Drain 1'
+        '7': '&7Life Steal 4||&7Drain 2'
+      damage:
+        '1': 7
+        '2': 8
+        '3': 9
+        '4': 10
+        '5': 11
+        '6': 12
+        '7': 13
+    phantom_bow:
+      name: '&aPhantom Bow'
+      enchants:
+        '1': '&7Life Steal 1||&cLocked'
+        '2': '&7Life Steal 2||&cLocked'
+        '3': '&7Life Steal 3||&cLocked'
+        '4': '&7Life Steal 4||&7Snare 1'
+        '5': '&7Life Steal 4||&7Snare 2'
+        '6': '&7Life Steal 4||&7Snare 3'
+        '7': '&7Life Steal 4||&7Snare 4'
+      damage:
+        '1': 7
+        '2': 8
+        '3': 9
+        '4': 10
+        '5': 11
+        '6': 12
+        '7': 13
+  epic:
+    long_bow:
+      name: '&5Long Bow'
+      enchants:
+        '1': '&7Precision 1||&cLocked'
+        '2': '&7Precision 2||&cLocked'
+        '3': '&7Precision 3||&cLocked'
+        '4': '&7Precision 4||&7Snares 1'
+        '5': '&7Precision 4||&7Snares 2'
+        '6': '&7Precision 4||&7Snares 3'
+        '7': '&7Precision 4||&7Snares 4'
+      damage:
+        '1': 7
+        '2': 8
+        '3': 9
+        '4': 10
+        '5': 11
+        '6': 13
+        '7': 14
+    explosive_bow:
+      name: '&5Explosive Bow'
+      enchants:
+        '1': '&7Fire 1||&cLocked'
+        '2': '&7Fire 2||&cLocked'
+        '3': '&7Fire 3||&cLocked'
+        '4': '&7Fire 4||&7Explosion 1'
+        '5': '&7Fire 4||&7Explosion 2'
+        '6': '&7Fire 4||&7Explosion 3'
+        '7': '&7Fire 4||&7Explosion 4'
+      damage:
+        '1': 8
+        '2': 9
+        '3': 10
+        '4': 11
+        '5': 12
+        '6': 13
+        '7': 14
+    hunter's_bow:
+      name: '&5Hunter''s Bow'
+      enchants:
+        '1': '&7XP Boost 1||&cLocked'
+        '2': '&7XP Boost 2||&cLocked'
+        '3': '&7XP Boost 3||&cLocked'
+        '4': '&7XP Boost 4||&7Confusion 1'
+        '5': '&7XP Boost 4||&7Confusion 2'
+        '6': '&7XP Boost 4||&7Confusion 3'
+        '7': '&7XP Boost 4||&7Confusion 4'
+      damage:
+        '1': 10
+        '2': 11
+        '3': 12
+        '4': 13
+        '5': 14
+        '6': 15
+        '7': 16
+    queen's_bow:
+      name: '&5Queen''s Bow'
+      enchants:
+        '1': '&7Disarmor 1||&cLocked'
+        '2': '&7Disarmor 2||&cLocked'
+        '3': '&7Disarmor 3||&cLocked'
+        '4': '&7Disarmor 4||&7Slow 1'
+        '5': '&7Disarmor 4||&7Slow 2'
+        '6': '&7Disarmor 4||&7Slow 3'
+        '7': '&7Disarmor 4||&7Slow 4'
+      damage:
+        '1': 9
+        '2': 10
+        '3': 11
+        '4': 12
+        '5': 13
+        '6': 14
+        '7': 15
+    l-bow:
+      name: '&5L-Bow'
+      enchants:
+        '1': '&7Paralyze 1||&cLocked'
+        '2': '&7Paralyze 2||&cLocked'
+        '3': '&7Paralyze 3||&cLocked'
+        '4': '&7Paralyze 4||&7Blind 1'
+        '5': '&7Paralyze 4||&7Blind 2'
+        '6': '&7Paralyze 4||&7Blind 3'
+        '7': '&7Paralyze 4||&7Blind 4'
+      damage:
+        '1': 9
+        '2': 10
+        '3': 11
+        '4': 12
+        '5': 13
+        '6': 14
+        '7': 15
+  legendary:
+    storm_bow:
+      name: '&cStorm Bow'
+      enchants:
+        '1': '&7Thunderwave 1||&cLocked'
+        '2': '&7Thunderwave 2||&cLocked'
+        '3': '&7Thunderwave 3||&cLocked'
+        '4': '&7Thunderwave 4||&7Paralyze 1'
+        '5': '&7Thunderwave 4||&7Paralyze 2'
+        '6': '&7Thunderwave 4||&7Paralyze 3'
+        '7': '&7Thunderwave 4||&7Paralyze 4'
+      ability: '&cThunder Storm &7Strike up||&7to 5 nearby players with||&7lightning
+        dealing 2 hearts||&7of pierce damage'
+      damage:
+        '1': 10
+        '2': 11
+        '3': 12
+        '4': 13
+        '5': 14
+        '6': 15
+        '7': 17
+    blinding_bow:
+      name: '&cBlinding Bow'
+      enchants:
+        '1': '&7Gleam 1||&cLocked'
+        '2': '&7Gleam 2||&cLocked'
+        '3': '&7Gleam 3||&cLocked'
+        '4': '&7Gleam 4||&7Disarmor 1'
+        '5': '&7Gleam 4||&7Disarmor 2'
+        '6': '&7Gleam 4||&7Disarmor 3'
+        '7': '&7Gleam 4||&7Disarmor 4'
+      ability: '&cBeam &7Shoot a laser||&7beam at your target||&7inflicting 3 hearts
+        of||&7pierce damage and 2||&7seconds of blindness'
+      damage:
+        '1': 10
+        '2': 11
+        '3': 12
+        '4': 13
+        '5': 14
+        '6': 16
+        '7': 17
+    anguish_bow:
+      name: '&cAnguish Bow'
+      enchants:
+        '1': '&7Snares 1||&cLocked'
+        '2': '&7Snares 2||&cLocked'
+        '3': '&7Snares 3||&cLocked'
+        '4': '&7Snares 4||&7Torment 1'
+        '5': '&7Snares 4||&7Torment 2'
+        '6': '&7Snares 4||&7Torment 3'
+        '7': '&7Snares 4||&7Torment 4'
+      ability: '&cAgony &7Inflict weakness||&71 and confusion on all||&7players within
+        7 blocks'
+      damage:
+        '1': 11
+        '2': 12
+        '3': 13
+        '4': 14
+        '5': 15
+        '6': 16
+        '7': 17
+    x-bow:
+      name: '&cX-Bow'
+      enchants:
+        '1': '&7Paralyze 1||&cLocked'
+        '2': '&7Paralyze 2||&cLocked'
+        '3': '&7Paralyze 3||&cLocked'
+        '4': '&7Paralyze 4||&7Explosive 1'
+        '5': '&7Paralyze 4||&7Explosive 2'
+        '6': '&7Paralyze 4||&7Explosive 3'
+        '7': '&7Paralyze 4||&7Explosive 4'
+      damage:
+        '1': 11
+        '2': 12
+        '3': 13
+        '4': 14
+        '5': 15
+        '6': 16
+        '7': 17
+    magic_bow:
+      name: '&cMagic Bow'
+      enchants:
+        '1': '&7Pierce 1||&cLocked'
+        '2': '&7Pierce 2||&cLocked'
+        '3': '&7Pierce 3||&cLocked'
+        '4': '&7Pierce 4||&7Levitation 1'
+        '5': '&7Pierce 4||&7Levitation 2'
+        '6': '&7Pierce 4||&7Levitation 3'
+        '7': '&7Pierce 4||&7Levitation 4'
+      damage:
+        '1': 11
+        '2': 12
+        '3': 13
+        '4': 14
+        '5': 15
+        '6': 16
+        '7': 17
+  mythic:
+    gravy_bow:
+      name: '&bGravy Bow'
+      enchants:
+        '1': '&7Homing 1||&cLocked||&cLocked'
+        '2': '&7Homing 2||&7Concussion 1||&cLocked'
+        '3': '&7Homing 3||&7Concussion 2||&cLocked'
+        '4': '&7Homing 4||&7Concussion 3||&7Pushing Shot 1'
+        '5': '&7Homing 4||&7Concussion 4||&7Pushing Shot 2'
+        '6': '&7Homing 4||&7Concussion 4||&7Pushing Shot 3'
+        '7': '&7Homing 4||&7Concussion 4||&7Pushing Shot 4'
+      ability: '&bGravity &7Throw all players||&7withing 7 blocks up in the||&7air
+        and slam them down||&7snaring them for 3 seconds||&7and dealing 2 hearts||&7of
+        pierce damage'
+      damage:
+        '1': 13
+        '2': 14
+        '3': 15
+        '4': 16
+        '5': 17
+        '6': 18
+        '7': 19
+    destiny_bow:
+      name: '&bDestiny Bow'
+      enchants:
+        '1': '&7Bullseye 1||&cLocked||&cLocked'
+        '2': '&7Bullseye 2||&7Plasma 1||&cLocked'
+        '3': '&7Bullseye 3||&7Plasma 2||&cLocked'
+        '4': '&7Bullseye 4||&7Plasma 3||&7Life Steal 1'
+        '5': '&7Bullseye 4||&7Plasma 4||&7Life Steal 2'
+        '6': '&7Bullseye 4||&7Plasma 4||&7Life Steal 3'
+        '7': '&7Bullseye 4||&7Plasma 4||&7Life Steal 4'
+      ability: '&bLockdown &7Snares all enemies||&7within 10 blocks for 6 seconds'
+      damage:
+        '1': 12
+        '2': 13
+        '3': 14
+        '4': 15
+        '5': 16
+        '6': 17
+        '7': 18
+    plague_bow:
+      name: '&bPlague Bow'
+      enchants:
+        '1': '&7Plague 1||&cLocked||&cLocked'
+        '2': '&7Plague 2||&7Epidemic 1||&cLocked'
+        '3': '&7Plague 3||&7Epidemic 2||&cLocked'
+        '4': '&7Plague 4||&7Epidemic 3||&7Pierce 1'
+        '5': '&7Plague 4||&7Epidemic 4||&7Pierce 2'
+        '6': '&7Plague 4||&7Epidemic 4||&7Pierce 3'
+        '7': '&7Plague 4||&7Epidemic 4||&7Pierce 4'
+      ability: '&bInfestation &7Poisones and withers||&7all enemies within 8 blocks'
+      damage:
+        '1': 11
+        '2': 12
+        '3': 13
+        '4': 14
+        '5': 15
+        '6': 16
+        '7': 17
+  event:
+    bow-n:
+      name: '&6&lS&8&lp&6&lo&8&lo&6&lk&8&ly &6&lB&8&lo&6&lw&8&l-&6&ln'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Bleed 2||&6Pierce 2||&6Disarmor 2||&6Life Steal 2||&6Paralyze 2||&6Blind
+          2'
+        '6': '&6Bleed 2||&6Pierce 2||&6Disarmor 2||&6Life Steal 2||&6Paralyze 2||&6Blind
+          2'
+        '7': '&6Bleed 2||&6Pierce 2||&6Disarmor 2||&6Life Steal 2||&6Paralyze 2||&6Blind
+          2'
+      damage:
+        '1': 11
+        '2': 6
+        '3': 13
+        '4': 8
+        '5': 16
+        '6': 16
+        '7': 16
+shield:
+  mythic:
+    bulwark_shield:
+      itemtype: 1
+      name: '&bBulwark Shield'
+      enchants:
+        '1': '&7War Cry 1||&cLocked||&cLocked'
+        '2': '&7War Cry 2||&7Parry 1||&cLocked'
+        '3': '&7War Cry 3||&7Parry 2||&cLocked'
+        '4': '&7War Cry 4||&7Parry 3||&7Shield Bash 1'
+        '5': '&7War Cry 4||&7Parry 4||&7Shield Bash 2'
+        '6': '&7War Cry 4||&7Parry 4||&7Shield Bash 3'
+        '7': '&7War Cry 4||&7Parry 4||&7Shield Bash 4'
+      ability: '&bJuggernaut &7Gain a bonus||&725% Armor'
+    titan's_shield:
+      itemtype: 1
+      name: '&bTitan''s Shield'
+      enchants:
+        '1': '&7Crush 1||&cLocked||&cLocked'
+        '2': '&7Crush 2||&7Valor 1||&cLocked'
+        '3': '&7Crush 3||&7Valor 2||&cLocked'
+        '4': '&7Crush 4||&7Valor 3||&7Enlightment 1'
+        '5': '&7Crush 4||&7Valor 4||&7Enlightment 2'
+        '6': '&7Crush 4||&7Valor 4||&7Enlightment 3'
+        '7': '&7Crush 4||&7Valor 4||&7Enlightment 4'
+      ability: '&bTitanic: &7Gain a bonus 4||&7Hearts'
+    emperor's_shield:
+      itemtype: 1
+      name: '&bEmperor''s Shield'
+      enchants:
+        '1': '&7Vigor 1||&cLocked||&cLocked'
+        '2': '&7Vigor 2||&7Aegis 1||&cLocked'
+        '3': '&7Vigor 3||&7Aegis 2||&cLocked'
+        '4': '&7Vigor 4||&7Aegis 3||&7Reinforced 1'
+        '5': '&7Vigor 4||&7Aegis 4||&7Reinforced 2'
+        '6': '&7Vigor 4||&7Aegis 4||&7Reinforced 3'
+        '7': '&7Vigor 4||&7Aegis 4||&7Reinforced 4'
+      ability: '&bConquest &7Regain 5 HP||&7on every kill'
+  event:
+    dream_eater_shield:
+      itemtype: 9
+      name: '&6&lD&8&lr&6&Le&8&la&6&lm &6&lE&8&la&6&lt&8&le&6&lr &8&lS&6&lh&8&li&6&le&8&ll&6&ld'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Saturation 2||&6Valor 2||&6Snare 2||&6Reinforced 2'
+        '6': '&6Saturation 2||&6Valor 2||&6Snare 2||&6Reinforced 2'
+        '7': '&6Saturation 2||&6Valor 2||&6Snare 2||&6Reinforced 2'
+  common:
+    sturdy_shield:
+      itemtype: 1
+      name: '&7Sturdy Shield'
+      enchants:
+        '1': '&7Harden 1'
+        '2': '&7Harden 1'
+        '3': '&7Harden 2'
+        '4': '&7Harden 2'
+        '5': '&7Harden 3'
+        '6': '&7Harden 3'
+        '7': '&7Harden 4'
+    hungry_shield:
+      itemtype: 2
+      name: '&7Hungry Shield'
+      enchants:
+        '1': '&7Consume 1'
+        '2': '&7Consume 1'
+        '3': '&7Consume 2'
+        '4': '&7Consume 2'
+        '5': '&7Consume 3'
+        '6': '&7Consume 3'
+        '7': '&7Consume 4'
+    wicked_shield:
+      itemtype: 3
+      name: '&7Wicked Shield'
+      enchants:
+        '1': '&7Self Destruct 1'
+        '2': '&7Self Destruct 1'
+        '3': '&7Self Destruct 2'
+        '4': '&7Self Destruct 2'
+        '5': '&7Self Destruct 3'
+        '6': '&7Self Destruct 3'
+        '7': '&7Self Destruct 4'
+    sunlight_shield:
+      itemtype: 1
+      name: '&7Sunlight Shield'
+      enchants:
+        '1': '&7Ignite 1||&cLocked'
+        '2': '&7Ignite 2||&cLocked'
+        '3': '&7Ignite 3||&cLocked'
+        '4': '&7Ignite 4||&cLocked'
+        '5': '&7Ignite 4||&7Self Destruct 1'
+        '6': '&7Ignite 4||&7Self Destruct 2'
+        '7': '&7Ignite 4||&7Self Destruct 3'
+    wooden_shield:
+      itemtype: 2
+      name: '&7Wooden Shield'
+      enchants:
+        '1': '&7Harden 1||&cLocked'
+        '2': '&7Harden 2||&cLocked'
+        '3': '&7Harden 3||&cLocked'
+        '4': '&7Harden 4||&cLocked'
+        '5': '&7Harden 4||&7Nutrition 1'
+        '6': '&7Harden 4||&7Nutrition 2'
+        '7': '&7Harden 4||&7Nutrition 3'
+  rare:
+    glutton's_shield:
+      itemtype: 1
+      name: '&aGlutton''s Shield'
+      enchants:
+        '1': '&7Devour 1||&cLocked'
+        '2': '&7Devour 2||&cLocked'
+        '3': '&7Devour 3||&cLocked'
+        '4': '&7Devour 4||&cLocked'
+        '5': '&7Devour 4||&cLocked'
+        '6': '&7Devour 4||&7Nutrition 1'
+        '7': '&7Devour 4||&7Nutrition 2'
+    great_shield:
+      itemtype: 5
+      name: '&aGreat Shield'
+      enchants:
+        '1': '&7Impel 1||&cLocked'
+        '2': '&7Impel 2||&cLocked'
+        '3': '&7Impel 3||&cLocked'
+        '4': '&7Impel 4||&cLocked'
+        '5': '&7Impel 4||&cLocked'
+        '6': '&7Impel 4||&7Slow 1'
+        '7': '&7Impel 4||&7Slow 2'
+    furious_shield:
+      itemtype: 1
+      name: '&aFurious Shield'
+      enchants:
+        '1': '&7Frenzy 1||&cLocked'
+        '2': '&7Frenzy 2||&cLocked'
+        '3': '&7Frenzy 3||&cLocked'
+        '4': '&7Frenzy 4||&cLocked'
+        '5': '&7Frenzy 4||&cLocked'
+        '6': '&7Frenzy 4||&7Ignite 1'
+        '7': '&7Frenzy 4||&7Ignite 2'
+    large_shield:
+      itemtype: 3
+      name: '&aLarge Shield'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&7Slow 1'
+        '5': '&7Valor 4||&7Slow 2'
+        '6': '&7Valor 4||&7Slow 3'
+        '7': '&7Valor 4||&7Slow 4'
+    creeper_shield:
+      itemtype: 4
+      name: '&aCreeper Shield'
+      enchants:
+        '1': '&7Blast Off 1||&cLocked'
+        '2': '&7Blast Off 2||&cLocked'
+        '3': '&7Blast Off 3||&cLocked'
+        '4': '&7Blast Off 4||&cIgnite 1'
+        '5': '&7Blast Off 4||&7Ignite 2'
+        '6': '&7Blast Off 4||&7Ignite 3'
+        '7': '&7Blast Off 4||&7Ignite 4'
+  epic:
+    crusader's_shield:
+      itemtype: 1
+      name: '&5Crusader''s Shield'
+      enchants:
+        '1': '&7Aegis 1||&cLocked'
+        '2': '&7Aegis 2||&cLocked'
+        '3': '&7Aegis 3||&cLocked'
+        '4': '&7Aegis 4||&7Enlightment 1'
+        '5': '&7Aegis 4||&7Enlightment 2'
+        '6': '&7Aegis 4||&7Enlightment 3'
+        '7': '&7Aegis 4||&7Enlightment 4'
+    knight's_shield:
+      itemtype: 1
+      name: '&5Knight''s Shield'
+      enchants:
+        '1': '&7Parry 1||&cLocked'
+        '2': '&7Parry 2||&cLocked'
+        '3': '&7Parry 3||&cLocked'
+        '4': '&7Parry 4||&7Valor 1'
+        '5': '&7Parry 4||&7Valor 2'
+        '6': '&7Parry 4||&7Valor 3'
+        '7': '&7Parry 4||&7Valor 4'
+    ominous_shield:
+      itemtype: 1
+      name: '&5Ominous Shield'
+      enchants:
+        '1': '&7Panic 1||&cLocked'
+        '2': '&7Panic 2||&cLocked'
+        '3': '&7Panic 3||&cLocked'
+        '4': '&7Panic 4||&7Absorbing 1'
+        '5': '&7Panic 4||&7Absorbing 2'
+        '6': '&7Panic 4||&7Absorbing 3'
+        '7': '&7Panic 4||&7Absorbing 4'
+    fiery_shield:
+      itemtype: 5
+      name: '&5Fiery Shield'
+      enchants:
+        '1': '&7Enlightened 1||&cLocked'
+        '2': '&7Enlightened 2||&cLocked'
+        '3': '&7Enlightened 3||&cLocked'
+        '4': '&7Enlightened 4||&7Absorbing 1'
+        '5': '&7Enlightened 4||&7Absorbing 2'
+        '6': '&7Enlightened 4||&7Absorbing 3'
+        '7': '&7Enlightened 4||&7Absorbing 4'
+    icy_shield:
+      itemtype: 6
+      name: '&5Icy Shield'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&7Valor 1'
+        '5': '&7Slow 4||&7Valor 2'
+        '6': '&7Slow 4||&7Valor 3'
+        '7': '&7Slow 4||&7Valor 4'
+  legendary:
+    magician's_shield:
+      itemtype: 1
+      name: '&cMagician''s Shield'
+      enchants:
+        '1': '&7Fissure 1||&cLocked'
+        '2': '&7Fissure 2||&cLocked'
+        '3': '&7Fissure 3||&cLocked'
+        '4': '&7Fissure 4||&7Snare 1'
+        '5': '&7Fissure 4||&7Snare 2'
+        '6': '&7Fissure 4||&7Snare 3'
+        '7': '&7Fissure 4||&7Snare 4'
+      ability: '&cMagician &7Deal 25% extra||&7magic damage to your foes'
+    barbarian's_shield:
+      itemtype: 1
+      name: '&cBarbarian''s Shield'
+      enchants:
+        '1': '&7Shield Bash 1||&cLocked'
+        '2': '&7Shield Bash 2||&cLocked'
+        '3': '&7Shield Bash 3||&cLocked'
+        '4': '&7Shield Bash 4||&7Snares 1'
+        '5': '&7Shield Bash 4||&7Snares 2'
+        '6': '&7Shield Bash 4||&7Snares 3'
+        '7': '&7Shield Bash 4||&7Snares 4'
+      ability: '&cBrute &7Deal 20% extra||&7melee damage to your||&7opponents'
+    ranger's_shield:
+      itemtype: 1
+      name: '&cRanger''s Shield'
+      enchants:
+        '1': '&7Propulsion 1||&cLocked'
+        '2': '&7Propulsion 2||&cLocked'
+        '3': '&7Propulsion 3||&cLocked'
+        '4': '&7Propulsion 4||&7Snares 1'
+        '5': '&7Propulsion 4||&7Snares 2'
+        '6': '&7Propulsion 4||&7Snares 3'
+        '7': '&7Propulsion 4||&7Snares 4'
+      ability: '&cSharpshooter &7Deal 30%||&7extra ranged damage to||&7your targets'
+    iron_shield:
+      itemtype: 7
+      name: '&cIron Shield'
+      enchants:
+        '1': '&7Cactus 1||&cLocked'
+        '2': '&7Cactus 2||&cLocked'
+        '3': '&7Cactus 3||&cLocked'
+        '4': '&7Cactus 4||&7Snare 1'
+        '5': '&7Cactus 4||&7Snare 2'
+        '6': '&7Cactus 4||&7Snare 3'
+        '7': '&7Cactus 4||&7Snare 4'
+    reinforced_shield:
+      itemtype: 8
+      name: '&cReinforced Shield'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&7Reinforced 1'
+        '5': '&7Saturation 4||&7Reinforced 2'
+        '6': '&7Saturation 4||&7Reinforced 3'
+        '7': '&7Saturation 4||&7Reinforced 4'
+armor:
+  common:
+    integrity_helmet:
+      itemtype: gold_helmet
+      name: '&7Integrity Helmet'
+      enchants:
+        '1': '&7Saviour 1'
+        '2': '&7Saviour 1'
+        '3': '&7Saviour 2'
+        '4': '&7Saviour 2'
+        '5': '&7Saviour 3'
+        '6': '&7Saviour 3'
+        '7': '&7Saviour 4'
+    integrity_chestplate:
+      itemtype: gold_chestplate
+      name: '&7Integrity Chestplate'
+      enchants:
+        '1': '&7Divine 1'
+        '2': '&7Divine 1'
+        '3': '&7Divine 2'
+        '4': '&7Divine 2'
+        '5': '&7Divine 3'
+        '6': '&7Divine 3'
+        '7': '&7Divine 4'
+    integrity_leggings:
+      itemtype: gold_leggings
+      name: '&7Integrity Leggings'
+      enchants:
+        '1': '&7Ignite 1'
+        '2': '&7Ignite 1'
+        '3': '&7Ignite 2'
+        '4': '&7Ignite 2'
+        '5': '&7Ignite 3'
+        '6': '&7Ignite 3'
+        '7': '&7Ignite 4'
+    integrity_boots:
+      itemtype: gold_boots
+      name: '&7Integrity Boots'
+      enchants:
+        '1': '&7Valor 1'
+        '2': '&7Valor 1'
+        '3': '&7Valor 2'
+        '4': '&7Valor 2'
+        '5': '&7Valor 3'
+        '6': '&7Valor 3'
+        '7': '&7Valor 4'
+    solid_helmet:
+      itemtype: iron_helmet
+      name: '&7Solid Helmet'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Firm 1'
+        '3': '&7Firm 1'
+        '4': '&7Firm 2'
+        '5': '&7Firm 2'
+        '6': '&7Firm 3'
+        '7': '&7Firm 4'
+    solid_chestplate:
+      itemtype: iron_chestplate
+      name: '&7Solid Chestplate'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Harden 1'
+        '3': '&7Harden 1'
+        '4': '&7Harden 2'
+        '5': '&7Harden 2'
+        '6': '&7Harden 3'
+        '7': '&7Harden 4'
+    solid_leggings:
+      itemtype: iron_leggings
+      name: '&7Solid Leggings'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Slow 1'
+        '3': '&7Slow 1'
+        '4': '&7Slow 2'
+        '5': '&7Slow 2'
+        '6': '&7Slow 3'
+        '7': '&7Slow 4'
+    solid_boots:
+      itemtype: iron_boots
+      name: '&7Solid Boots'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Last Stand 1'
+        '3': '&7Last Stand 1'
+        '4': '&7Last Stand 2'
+        '5': '&7Last Stand 2'
+        '6': '&7Last Stand 3'
+        '7': '&7Last Stand 4'
+    stamina_helmet:
+      itemtype: leather_helmet
+      name: '&7Stamina Helmet'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Nutrition 1'
+        '3': '&7Nutrition 1'
+        '4': '&7Nutrition 2'
+        '5': '&7Nutrition 2'
+        '6': '&7Nutrition 3'
+        '7': '&7Nutrition 4'
+    stamina_chestplate:
+      itemtype: leather_chestplate
+      name: '&7Stamina Chestplate'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Hastened 1'
+        '3': '&7Hastened 1'
+        '4': '&7Hastened 2'
+        '5': '&7Hastened 2'
+        '6': '&7Hastened 3'
+        '7': '&7Hastened 4'
+    stamina_leggings:
+      itemtype: leather_leggings
+      name: '&7Stamina Leggings'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Energy 1'
+        '3': '&7Energy 1'
+        '4': '&7Energy 2'
+        '5': '&7Energy 2'
+        '6': '&7Energy 3'
+        '7': '&7Energy 4'
+    stamina_boots:
+      itemtype: leather_boots
+      name: '&7Stamina Boots'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Escape 1'
+        '3': '&7Escape 1'
+        '4': '&7Escape 2'
+        '5': '&7Escape 2'
+        '6': '&7Escape 3'
+        '7': '&7Escape 4'
+    ruined_helmet:
+      itemtype: leather_helmet
+      name: '&7Ruined Helmet'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Slow 1'
+        '3': '&7Slow 1'
+        '4': '&7Slow 2'
+        '5': '&7Slow 2'
+        '6': '&7Slow 3'
+        '7': '&7Slow 4'
+    ruined_chestplate:
+      itemtype: leather_chestplate
+      name: '&7Ruined Chestplate'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Dull 1'
+        '3': '&7Dull 1'
+        '4': '&7Dull 2'
+        '5': '&7Dull 2'
+        '6': '&7Dull 3'
+        '7': '&7Dull 4'
+    ruined_leggings:
+      itemtype: leather_leggings
+      name: '&7Ruined Leggings'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Withering 1'
+        '3': '&7Withering 1'
+        '4': '&7Withering 2'
+        '5': '&7Withering 2'
+        '6': '&7Withering 3'
+        '7': '&7Withering 4'
+    ruined_boots:
+      itemtype: leather_boots
+      name: '&7Ruined Boots'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Smokescreen 1'
+        '3': '&7Smokescreen 1'
+        '4': '&7Smokescreen 2'
+        '5': '&7Smokescreen 2'
+        '6': '&7Smokescreen 3'
+        '7': '&7Smokescreen 4'
+    dark_helmet:
+      itemtype: leather_helmet
+      name: '&7Dark Helmet'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Saviour 1'
+        '3': '&7Saviour 1'
+        '4': '&7Saviour 2'
+        '5': '&7Saviour 2'
+        '6': '&7Saviour 3'
+        '7': '&7Saviour 4'
+    dark_chestplate:
+      itemtype: leather_chestplate
+      name: '&7Dark Chestplate'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Ignite 1'
+        '3': '&7Ignite 1'
+        '4': '&7Ignite 2'
+        '5': '&7Ignite 2'
+        '6': '&7Ignite 3'
+        '7': '&7Ignite 4'
+    dark_leggings:
+      itemtype: leather_leggings
+      name: '&7Dark Leggings'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Slow 1'
+        '3': '&7Slow 1'
+        '4': '&7Slow 2'
+        '5': '&7Slow 2'
+        '6': '&7Slow 3'
+        '7': '&7Slow 4'
+    dark_boots:
+      itemtype: leather_boots
+      name: '&7Dark Boots'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Bane 1'
+        '3': '&7Bane 1'
+        '4': '&7Bane 2'
+        '5': '&7Bane 2'
+        '6': '&7Bane 3'
+        '7': '&7Bane 4'
+    shimmering_helmet:
+      itemtype: iron_helmet
+      name: '&7Shimmering Helmet'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Shine 1'
+        '3': '&7Shine 1'
+        '4': '&7Shine 2'
+        '5': '&7Shine 2'
+        '6': '&7Shine 3'
+        '7': '&7Shine 4'
+    shimmering_chestplate:
+      itemtype: iron_chestplate
+      name: '&7Shimmering Chestplate'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Tank 1'
+        '3': '&7Tank 1'
+        '4': '&7Tank 2'
+        '5': '&7Tank 2'
+        '6': '&7Tank 3'
+        '7': '&7Tank 4'
+    shimmering_leggings:
+      itemtype: iron_leggings
+      name: '&7Shimmering Leggings'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Enlightment 1'
+        '3': '&7Enlightment 1'
+        '4': '&7Enlightment 2'
+        '5': '&7Enlightment 2'
+        '6': '&7Enlightment 3'
+        '7': '&7Enlightment 4'
+    shimmering_boots:
+      itemtype: iron_boots
+      name: '&7Shimmering Boots'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Saturation 1'
+        '3': '&7Saturation 1'
+        '4': '&7Saturation 2'
+        '5': '&7Saturation 2'
+        '6': '&7Saturation 3'
+        '7': '&7Saturation 4'
+    warrior_boots:
+      itemtype: iron_boots
+      name: '&7Warrior Boots'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Confused 1||&cLocked'
+        '3': '&7Confused 2||&cLocked'
+        '4': '&7Confused 3||&cLocked'
+        '5': '&7Confused 3||&cLocked'
+        '6': '&7Confused 4||&7Slow 1'
+        '7': '&7Confused 4||&7Slow 2'
+    divine_boots:
+      itemtype: golden_boots
+      name: '&7Divine Boots'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Saviour 1'
+        '3': '&7Saviour 2'
+        '4': '&7Saviour 3'
+        '5': '&7Saviour 3'
+        '6': '&7Saviour 4'
+        '7': '&7Saviour 4'
+    divine_leggings:
+      itemtype: golden_leggings
+      name: '&7Divine Leggings'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Ignite 1||&cLocked'
+        '3': '&7Ignite 2||&cLocked'
+        '4': '&7Ignite 3||&cLocked'
+        '5': '&7Ignite 3||&cLocked'
+        '6': '&7Ignite 4||&7Valor 1'
+        '7': '&7Ignite 4||&7Valor 2'
+    divine_chestplate:
+      itemtype: golden_chestplate
+      name: '&7Divine Chestplate'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Valor 1||&cLocked'
+        '3': '&7Valor 2||&cLocked'
+        '4': '&7Valor 3||&cLocked'
+        '5': '&7Valor 3||&cLocked'
+        '6': '&7Valor 4||&7Enlightened 1'
+        '7': '&7Valor 4||&7Enlightened 2'
+    divine_helmet:
+      itemtype: golden_helmet
+      name: '&7Divine Helmet'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Saturation 1||&cLocked'
+        '3': '&7Saturation 2||&cLocked'
+        '4': '&7Saturation 3||&cLocked'
+        '5': '&7Saturation 3||&cLocked'
+        '6': '&7Saturation 4||&7Nutrition 1'
+        '7': '&7Saturation 4||&7Nutrition 2'
+    cursed_boots:
+      itemtype: golden_boots
+      name: '&7Cursed Boots'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Escape 1'
+        '7': '&7Slow 4||&7Escape 2'
+    cursed_leggings:
+      itemtype: golden_leggings
+      name: '&7Cursed Leggings'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Kadabra 1'
+        '3': '&7Kadabra 2'
+        '4': '&7Kadabra 3'
+        '5': '&7Kadabra 4'
+        '6': '&7Kadabra 4'
+        '7': '&7Kadabra 4'
+    cursed_chestplate:
+      itemtype: golden_chestplate
+      name: '&7Cursed Chestplate'
+      enchants:
+        '1': '&cLocked'
+        '2': '&7Saviour 1'
+        '3': '&7Saviour 2'
+        '4': '&7Saviour 3'
+        '5': '&7Saviour 4'
+        '6': '&7Saviour 4'
+        '7': '&7Saviour 4'
+    cursed_helmet:
+      itemtype: golden_helmet
+      name: '&7Cursed Helmet'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&cLocked'
+        '5': '&7Valor 4||&cLocked'
+        '6': '&7Valor 4||&7Wither 1'
+        '7': '&7Valor 4||&7Wither 2'
+    worker's_boots:
+      itemtype: leather_boots
+      name: '&7Worker''s Boots'
+      enchants:
+        '1': '&7Escape 1||&cLocked'
+        '2': '&7Escape 2||&cLocked'
+        '3': '&7Escape 3||&cLocked'
+        '4': '&7Escape 4||&cLocked'
+        '5': '&7Escape 4||&cLocked'
+        '6': '&7Escape 4||&7Smoke Screen 1'
+        '7': '&7Escape 4||&7Smoke Screen 2'
+    worker's_leggings:
+      itemtype: leather_leggings
+      name: '&7Worker''s Leggings'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Enlightened 1||&cLocked'
+        '3': '&7Enlightened 2||&cLocked'
+        '4': '&7Enlightened 3||&cLocked'
+        '5': '&7Enlightened 4||&cLocked'
+        '6': '&7Enlightened 4||&7Snare 1'
+        '7': '&7Enlightened 4||&7Snare 2'
+    worker's_chestplate:
+      itemtype: leather_chestplate
+      name: '&7Worker''s Chestplate'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Tank 1||&cLocked'
+        '3': '&7Tank 2||&cLocked'
+        '4': '&7Tank 3||&cLocked'
+        '5': '&7Tank 4||&cLocked'
+        '6': '&7Tank 4||&7Nutrition 1'
+        '7': '&7Tank 4||&7Nutrition 2'
+    worker's_helmet:
+      itemtype: leather_helmet
+      name: '&7Worker''s Helmet'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Ignite 1||&cLocked'
+        '3': '&7Ignite 2||&cLocked'
+        '4': '&7Ignite 3||&cLocked'
+        '5': '&7Ignite 4||&cLocked'
+        '6': '&7Ignite 4||&7Valor 1'
+        '7': '&7Ignite 4||&7Valor 2'
+    tin_boots:
+      itemtype: iron_boots
+      name: '&7Tin Boots'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Snare 1||&cLocked'
+        '3': '&7Snare 2||&cLocked'
+        '4': '&7Snare 3||&cLocked'
+        '5': '&7Snare 4||&cLocked'
+        '6': '&7Snare 4||&7Saturation 1'
+        '7': '&7Snare 4||&7Saturation 2'
+    tin_leggings:
+      itemtype: iron_leggings
+      name: '&7Tin Leggigns'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Smoke Screen 1||&cLocked'
+        '3': '&7Smoke Screen 2||&cLocked'
+        '4': '&7Smoke Screen 3||&cLocked'
+        '5': '&7Smoke Screen 4||&cLocked'
+        '6': '&7Smoke Screen 4||&7Valor 1'
+        '7': '&7Smoke Screen 4||&7Valor 2'
+    tin_chestplate:
+      itemtype: iron_chestplate
+      name: '&7Tin Chestplate'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Harden 1||&cLocked'
+        '3': '&7Harden 2||&cLocked'
+        '4': '&7Harden 3||&cLocked'
+        '5': '&7Harden 4||&cLocked'
+        '6': '&7Harden 4||&7Enlightened 1'
+        '7': '&7Harden 4||&7Enlightened 2'
+    tin_helmet:
+      itemtype: iron_helmet
+      name: '&7Tin Helmet'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Saturation 1||&cLocked'
+        '3': '&7Saturation 2||&cLocked'
+        '4': '&7Saturation 3||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Bane 1'
+        '7': '&7Saturation 4||&7Bane 2'
+    spikey_boots:
+      itemtype: iron_boots
+      name: '&7Spikey Boots'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Saturation 1||&cLocked'
+        '3': '&7Saturation 2||&cLocked'
+        '4': '&7Saturation 3||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Escape 1'
+        '7': '&7Saturation 4||&7Escape 2'
+    spikey_leggings:
+      itemtype: iron_leggings
+      name: '&7Spikey Leggings'
+      enchants:
+        '1': '&7Thorns 1'
+        '2': '&7Thorns 2'
+        '3': '&7Thorns 3'
+        '4': '&7Thorns 4'
+        '5': '&7Thorns 5'
+        '6': '&7Thorns 6'
+        '7': '&7Thorns 7'
+    spikey_chestplate:
+      itemtype: iron_chestplate
+      name: '&7Spikey Chestplate'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Nutrition 1||&cLocked'
+        '3': '&7Nutrition 2||&cLocked'
+        '4': '&7Nutrition 3||&cLocked'
+        '5': '&7Nutrition 4||&cLocked'
+        '6': '&7Nutrition 4||&7Reinforced 1'
+        '7': '&7Nutrition 4||&7Reinforced 2'
+    spikey_helmet:
+      itemtype: iron_helmet
+      name: '&7Spikey Helmet'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Slow 1||&cLocked'
+        '3': '&7Slow 2||&cLocked'
+        '4': '&7Slow 3||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Ignite 1'
+        '7': '&7Slow 4||&7Ignite 2'
+    hardened_boots:
+      itemtype: diamond_boots
+      name: '&7Hardened Boots'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Absorbing 1||&cLocked'
+        '3': '&7Absorbing 2||&cLocked'
+        '4': '&7Absorbing 3||&cLocked'
+        '5': '&7Absorbing 4||&cLocked'
+        '6': '&7Absorbing 4||&7Snare 1'
+        '7': '&7Absorbing 4||&7Snare 2'
+    hardened_leggings:
+      itemtype: diamond_leggings
+      name: '&7Hardened Leggings'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Slow 1||&cLocked'
+        '3': '&7Slow 2||&cLocked'
+        '4': '&7Slow 3||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Bane 1'
+        '7': '&7Slow 4||&7Bane 2'
+    hardened_chestplate:
+      itemtype: diamond_chestplate
+      name: '&7Hardened Chestplate'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Harden 1||&cLocked'
+        '3': '&7Harden 2||&cLocked'
+        '4': '&7Harden 3||&cLocked'
+        '5': '&7Harden 4||&cLocked'
+        '6': '&7Harden 4||&7Tank 1'
+        '7': '&7Harden 4||&7Tank 2'
+    hardened_helmet:
+      itemtype: diamond_helmet
+      name: '&7Hardened Helmet'
+      enchants:
+        '1': '&cLocked||&cLocked'
+        '2': '&7Wither 1||&cLocked'
+        '3': '&7Wither 2||&cLocked'
+        '4': '&7Wither 3||&cLocked'
+        '5': '&7Wither 4||&cLocked'
+        '6': '&7Wither 4||&7Slow 1'
+        '7': '&7Wither 4||&7Slow 2'
+  rare:
+    veteran's_helmet:
+      itemtype: iron_helmet
+      name: '&aVeteran''s Helmet'
+      enchants:
+        '1': '&7Precise 1||&cLocked'
+        '2': '&7Precise 2||&cLocked'
+        '3': '&7Precise 3||&cLocked'
+        '4': '&7Precise 4||&cLocked'
+        '5': '&7Precise 4||&cLocked'
+        '6': '&7Precise 4||&7Bane 1'
+        '7': '&7Precise 4||&7Bane 2'
+    veteran's_chestplate:
+      itemtype: iron_chestplate
+      name: '&aVeteran''s Chestplate'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Valor 1'
+        '7': '&7Slow 4||&7Valor 2'
+    veteran's_leggings:
+      itemtype: iron_leggings
+      name: '&aVeteran''s Leggings'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked'
+        '2': '&7Absorbing 2||&cLocked'
+        '3': '&7Absorbing 3||&cLocked'
+        '4': '&7Absorbing 4||&cLocked'
+        '5': '&7Absorbing 4||&cLocked'
+        '6': '&7Absorbing 4||&7Saviour 1'
+        '7': '&7Absorbing 4||&7Saviour 2'
+    veteran's_boots:
+      itemtype: iron_boots
+      name: '&aVeteran''s Boots'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Energy 1'
+        '7': '&7Saturation 4||&7Energy 2'
+    igneous_helmet:
+      itemtype: iron_helmet
+      name: '&aIgneous Helmet'
+      enchants:
+        '1': '&7Ignite 1||&cLocked'
+        '2': '&7Ignite 2||&cLocked'
+        '3': '&7Ignite 3||&cLocked'
+        '4': '&7Ignite 4||&cLocked'
+        '5': '&7Ignite 4||&cLocked'
+        '6': '&7Ignite 4||&7Saviour 1'
+        '7': '&7Ignite 4||&7Saviour 2'
+    igneous_chestplate:
+      itemtype: iron_chestplate
+      name: '&aIgneous Chestplate'
+      enchants:
+        '1': '&7Explosion 1||&cLocked'
+        '2': '&7Explosion 2||&cLocked'
+        '3': '&7Explosion 3||&cLocked'
+        '4': '&7Explosion 4||&cLocked'
+        '5': '&7Explosion 4||&cLocked'
+        '6': '&7Explosion 4||&7Absorbing 1'
+        '7': '&7Explosion 4||&7Absorbing 2'
+    igneous_leggings:
+      itemtype: iron_leggings
+      name: '&aIgneous Leggings'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&cLocked'
+        '5': '&7Valor 4||&cLocked'
+        '6': '&7Valor 4||&7Harden 1'
+        '7': '&7Valor 4||&7Harden 2'
+    igneous_boots:
+      itemtype: iron_boots
+      name: '&aIgneous Boots'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Nutrition 1'
+        '7': '&7Slow 4||&7Nutrition 2'
+    enhanced_helmet:
+      itemtype: gold_helmet
+      name: '&aEnhanced Helmet'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Slow 1'
+        '7': '&7Saturation 4||&7Slow 2'
+    enhanced_chestplate:
+      itemtype: gold_chestplate
+      name: '&aEnhanced Chestplate'
+      enchants:
+        '1': '&7Amplify 1||&cLocked'
+        '2': '&7Amplify 2||&cLocked'
+        '3': '&7Amplify 3||&cLocked'
+        '4': '&7Amplify 4||&cLocked'
+        '5': '&7Amplify 4||&cLocked'
+        '6': '&7Amplify 4||&7Nutrition 1'
+        '7': '&7Amplify 4||&7Nutrition 2'
+    enhanced_leggings:
+      itemtype: gold_leggings
+      name: '&aEnhanced Leggings'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&cLocked'
+        '5': '&7Valor 4||&cLocked'
+        '6': '&7Valor 4||&7Withering 1'
+        '7': '&7Valor 4||&7Withering 2'
+    enhanced_boots:
+      itemtype: gold_boots
+      name: '&aEnhanced Boots'
+      enchants:
+        '1': '&7Escape 1||&cLocked'
+        '2': '&7Escape 2||&cLocked'
+        '3': '&7Escape 3||&cLocked'
+        '4': '&7Escape 4||&cLocked'
+        '5': '&7Escape 4||&cLocked'
+        '6': '&7Escape 4||&7Last Stand 1'
+        '7': '&7Escape 4||&7Last Stand 2'
+    ambitious_helmet:
+      itemtype: diamond_helmet
+      name: '&aAmbitious Helmet'
+      enchants:
+        '1': '&7Desire 1||&cLocked'
+        '2': '&7Desire 2||&cLocked'
+        '3': '&7Desire 3||&cLocked'
+        '4': '&7Desire 4||&cLocked'
+        '5': '&7Desire 4||&cLocked'
+        '6': '&7Desire 4||&7Absorbing 1'
+        '7': '&7Desire 4||&7Absorbing 2'
+    ambitious_chestplate:
+      itemtype: diamond_chestplate
+      name: '&aAmbitious Chestplate'
+      enchants:
+        '1': '&7Determination 1||&cLocked'
+        '2': '&7Determination 2||&cLocked'
+        '3': '&7Determination 3||&cLocked'
+        '4': '&7Determination 4||&cLocked'
+        '5': '&7Determination 4||&cLocked'
+        '6': '&7Determination 4||&7Harden 1'
+        '7': '&7Determination 4||&7Harden 2'
+    ambitious_leggings:
+      itemtype: diamond_leggings
+      name: '&aAmbitious Leggings'
+      enchants:
+        '1': '&7Escape 1||&cLocked'
+        '2': '&7Escape 2||&cLocked'
+        '3': '&7Escape 3||&cLocked'
+        '4': '&7Escape 4||&cLocked'
+        '5': '&7Escape 4||&cLocked'
+        '6': '&7Escape 4||&7Enlightment 1'
+        '7': '&7Escape 4||&7Enlightment 2'
+    ambitious_boots:
+      itemtype: diamond_boots
+      name: '&aAmbitious Boots'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked'
+        '2': '&7Last Stand 2||&cLocked'
+        '3': '&7Last Stand 3||&cLocked'
+        '4': '&7Last Stand 4||&cLocked'
+        '5': '&7Last Stand 4||&cLocked'
+        '6': '&7Last Stand 4||&7Ignite 1'
+        '7': '&7Last Stand 4||&7Ignite 2'
+    toxic_helmet:
+      itemtype: leather_helmet
+      name: '&aToxic Helmet'
+      enchants:
+        '1': '&7Energy 1||&cLocked'
+        '2': '&7Energy 2||&cLocked'
+        '3': '&7Energy 3||&cLocked'
+        '4': '&7Energy 4||&cLocked'
+        '5': '&7Energy 4||&cLocked'
+        '6': '&7Energy 4||&7Ignite 1'
+        '7': '&7Energy 4||&7Ignite 2'
+    toxic_chestplate:
+      itemtype: leather_chestplate
+      name: '&aToxic Chestplate'
+      enchants:
+        '1': '&7Cactus 1||&cLocked'
+        '2': '&7Cactus 2||&cLocked'
+        '3': '&7Cactus 3||&cLocked'
+        '4': '&7Cactus 4||&cLocked'
+        '5': '&7Cactus 4||&cLocked'
+        '6': '&7Cactus 4||&7Slow 1'
+        '7': '&7Cactus 4||&7Slow 2'
+    toxic_leggings:
+      itemtype: leather_leggings
+      name: '&aToxic Leggings'
+      enchants:
+        '1': '&7Venom 1||&cLocked'
+        '2': '&7Venom 2||&cLocked'
+        '3': '&7Venom 3||&cLocked'
+        '4': '&7Venom 4||&cLocked'
+        '5': '&7Venom 4||&cLocked'
+        '6': '&7Venom 4||&7Valor 1'
+        '7': '&7Venom 4||&7Valor 2'
+    toxic_boots:
+      itemtype: leather_boots
+      name: '&aToxic Boots'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Dull 1'
+        '7': '&7Saturation 4||&7Dull 2'
+    tank_helmet:
+      itemtype: diamond_helmet
+      name: '&aTank Helmet'
+      enchants:
+        '1': '&7Saviour 1||&cLocked'
+        '2': '&7Saviour 2||&cLocked'
+        '3': '&7Saviour 3||&cLocked'
+        '4': '&7Saviour 4||&cLocked'
+        '5': '&7Saviour 4||&cLocked'
+        '6': '&7Saviour 4||&7Absorbing 1'
+        '7': '&7Saviour 4||&7Absorbing 2'
+    tank_chestplate:
+      itemtype: diamond_chestplate
+      name: '&aTank Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked'
+        '2': '&7Tank 2||&cLocked'
+        '3': '&7Tank 3||&cLocked'
+        '4': '&7Tank 4||&cLocked'
+        '5': '&7Tank 4||&cLocked'
+        '6': '&7Tank 4||&7Enlightment 1'
+        '7': '&7Tank 4||&7Enlightment 2'
+    tank_leggings:
+      itemtype: diamond_leggings
+      name: '&aTank Leggings'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&cLocked'
+        '5': '&7Valor 4||&cLocked'
+        '6': '&7Valor 4||&7Ignite 1'
+        '7': '&7Valor 4||&7Ignite 2'
+    tank_boots:
+      itemtype: diamond_boots
+      name: '&aTank Boots'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked'
+        '2': '&7Last Stand 2||&cLocked'
+        '3': '&7Last Stand 3||&cLocked'
+        '4': '&7Last Stand 4||&cLocked'
+        '5': '&7Last Stand 4||&cLocked'
+        '6': '&7Last Stand 4||&7Harden 1'
+        '7': '&7Last Stand 4||&7Harden 2'
+    titanium_boots:
+      itemtype: iron_boots
+      name: '&aTitanium Boots'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&cLocked'
+        '5': '&7Valor 4||&cLocked'
+        '6': '&7Valor 4||&7Wither 1'
+        '7': '&7Valor 4||&7Wither 2'
+    titanium_leggings:
+      itemtype: iron_leggings
+      name: '&aTitanium Leggings'
+      enchants:
+        '1': '&7Ignite 1||&cLocked'
+        '2': '&7Ignite 2||&cLocked'
+        '3': '&7Ignite 3||&cLocked'
+        '4': '&7Ignite 4||&cLocked'
+        '5': '&7Ignite 4||&cLocked'
+        '6': '&7Ignite 4||&7Wither 1'
+        '7': '&7Ignite 4||&7Wither 2'
+    titanium_chestplate:
+      itemtype: iron_chestplate
+      name: '&aTitanium Chestplate'
+      enchants:
+        '1': '&7Blast Off 1||&cLocked'
+        '2': '&7Blast Off 2||&cLocked'
+        '3': '&7Blast Off 3||&cLocked'
+        '4': '&7Blast Off 4||&cLocked'
+        '5': '&7Blast Off 4||&cLocked'
+        '6': '&7Blast Off 4||&7Valor 1'
+        '7': '&7Blast Off 4||&7Valor 2'
+    titanium_helmet:
+      itemtype: iron_helmet
+      name: '&aTitanium Helmet'
+      enchants:
+        '1': '&7snare 1||&cLocked'
+        '2': '&7snare 2||&cLocked'
+        '3': '&7snare 3||&cLocked'
+        '4': '&7snare 4||&cLocked'
+        '5': '&7snare 4||&cLocked'
+        '6': '&7snare 4||&7Savior 1'
+        '7': '&7snare 4||&7Savior 2'
+    steel_boots:
+      itemtype: iron_boots
+      name: '&aSteel Boots'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked'
+        '2': '&7Last Stand 2||&cLocked'
+        '3': '&7Last Stand 3||&cLocked'
+        '4': '&7Last Stand 4||&cLocked'
+        '5': '&7Last Stand 4||&cLocked'
+        '6': '&7Last Stand 4||&7Valor 1'
+        '7': '&7Last Stand 4||&7Valor 2'
+    steel_leggings:
+      itemtype: iron_leggings
+      name: '&aSteel Leggings'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Absorbing 1'
+        '7': '&7Saturation 4||&7Absorbing 2'
+    steel_chestplate:
+      itemtype: iron_chestplate
+      name: '&aSteel Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked'
+        '2': '&7Tank 2||&cLocked'
+        '3': '&7Tank 3||&cLocked'
+        '4': '&7Tank 4||&cLocked'
+        '5': '&7Tank 4||&cLocked'
+        '6': '&7Tank 4||&7Reinforced 1'
+        '7': '&7Tank 4||&7Reinforced 2'
+    steel_helmet:
+      itemtype: iron_helmet
+      name: '&aSteel Helmet'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Bane 1'
+        '7': '&7Slow 4||&7Bane 2'
+    frosty_boots:
+      itemtype: golden_boots
+      name: '&aFrosty Boots'
+      enchants:
+        '1': '&7Wither 1||&cLocked'
+        '2': '&7Wither 2||&cLocked'
+        '3': '&7Wither 3||&cLocked'
+        '4': '&7Wither 4||&cLocked'
+        '5': '&7Wither 4||&cLocked'
+        '6': '&7Wither 4||&7Absorbing 1'
+        '7': '&7Wither 4||&7Absorbing 2'
+    frosty_leggings:
+      itemtype: golden_leggings
+      name: '&aFrosty Leggings'
+      enchants:
+        '1': '&7Slow 1||&cLocked'
+        '2': '&7Slow 2||&cLocked'
+        '3': '&7Slow 3||&cLocked'
+        '4': '&7Slow 4||&cLocked'
+        '5': '&7Slow 4||&cLocked'
+        '6': '&7Slow 4||&7Cactus 1'
+        '7': '&7Slow 4||&7Cactus 2'
+    frosty_chestplate:
+      itemtype: golden_chestplate
+      name: '&aFrosty Chestplate'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked'
+        '2': '&7Absorbing 2||&cLocked'
+        '3': '&7Absorbing 3||&cLocked'
+        '4': '&7Absorbing 4||&cLocked'
+        '5': '&7Absorbing 4||&cLocked'
+        '6': '&7Absorbing 4||&7Saturation 1'
+        '7': '&7Absorbing 4||&7Saturation 2'
+    frosty_helmet:
+      itemtype: golden_helmet
+      name: '&aFrosty Helmet'
+      enchants:
+        '1': '&7Savior 1||&cLocked'
+        '2': '&7Savior 2||&cLocked'
+        '3': '&7Savior 3||&cLocked'
+        '4': '&7Savior 4||&cLocked'
+        '5': '&7Savior 4||&cLocked'
+        '6': '&7Savior 4||&7Reinforced 1'
+        '7': '&7Savior 4||&7Reinforced 2'
+    explosive_boots:
+      itemtype: golden_boots
+      name: '&aExplosive Boots'
+      enchants:
+        '1': '&7Smoke Screen 1||&cLocked'
+        '2': '&7Smoke Screen 2||&cLocked'
+        '3': '&7Smoke Screen 3||&cLocked'
+        '4': '&7Smoke Screen 4||&cLocked'
+        '5': '&7Smoke Screen 4||&cLocked'
+        '6': '&7Smoke Screen 4||&7Last Stand 1'
+        '7': '&7Smoke Screen 4||&7Last Stand 2'
+    explosive_leggings:
+      itemtype: golden_leggings
+      name: '&aExplosive Leggings'
+      enchants:
+        '1': '&7Enlightened 1||&cLocked'
+        '2': '&7Enlightened 2||&cLocked'
+        '3': '&7Enlightened 3||&cLocked'
+        '4': '&7Enlightened 4||&cLocked'
+        '5': '&7Enlightened 4||&cLocked'
+        '6': '&7Enlightened 4||&7Blast Off 1'
+        '7': '&7Enlightened 4||&7Blast Off 2'
+    explosive_chestplate:
+      itemtype: golden_chestplate
+      name: '&aExplosive Chestplate'
+      enchants:
+        '1': '&7Self Destruct 1||&cLocked'
+        '2': '&7Self Destruct 2||&cLocked'
+        '3': '&7Self Destruct 3||&cLocked'
+        '4': '&7Self Destruct 4||&cLocked'
+        '5': '&7Self Destruct 4||&cLocked'
+        '6': '&7Self Destruct 4||&7Enlightened 1'
+        '7': '&7Self Destruct 4||&7Enlightened 2'
+    explosive_helmet:
+      itemtype: golden_helmet
+      name: '&aExplosive Helmet'
+      enchants:
+        '1': '&7Bane 1||&cLocked'
+        '2': '&7Bane 2||&cLocked'
+        '3': '&7Bane 3||&cLocked'
+        '4': '&7Bane 4||&cLocked'
+        '5': '&7Bane 4||&cLocked'
+        '6': '&7Bane 4||&7Slow 1'
+        '7': '&7Bane 4||&7Slow 2'
+    rune_boots:
+      itemtype: diamond_boots
+      name: '&aRune Boots'
+      enchants:
+        '1': '&7Escape 1||&cLocked'
+        '2': '&7Escape 2||&cLocked'
+        '3': '&7Escape 3||&cLocked'
+        '4': '&7Escape 4||&cLocked'
+        '5': '&7Escape 4||&cLocked'
+        '6': '&7Escape 4||&7Enlightened 1'
+        '7': '&7Escape 4||&7Enlightened 2'
+    rune_leggings:
+      itemtype: diamond_leggings
+      name: '&aRune Leggings'
+      enchants:
+        '1': '&7Bane 1||&cLocked'
+        '2': '&7Bane 2||&cLocked'
+        '3': '&7Bane 3||&cLocked'
+        '4': '&7Bane 4||&cLocked'
+        '5': '&7Bane 4||&cLocked'
+        '6': '&7Bane 4||&7Slow 1'
+        '7': '&7Bane 4||&7Slow 2'
+    rune_chestplate:
+      itemtype: diamond_chestplate
+      name: '&aRune Chestplate'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Reinforced 1'
+        '7': '&7Saturation 4||&7Reinforced 2'
+    rune_helmet:
+      itemtype: diamond_helmet
+      name: '&aRune Helmet'
+      enchants:
+        '1': '&7Bane 1||&cLocked'
+        '2': '&7Bane 2||&cLocked'
+        '3': '&7Bane 3||&cLocked'
+        '4': '&7Bane 4||&cLocked'
+        '5': '&7Bane 4||&cLocked'
+        '6': '&7Bane 4||&7Snare 1'
+        '7': '&7Bane 4||&7Snare 2'
+    tempered_boots:
+      itemtype: iron_boots
+      name: '&aTempered Boots'
+      enchants:
+        '1': '&7Saturation 1||&cLocked'
+        '2': '&7Saturation 2||&cLocked'
+        '3': '&7Saturation 3||&cLocked'
+        '4': '&7Saturation 4||&cLocked'
+        '5': '&7Saturation 4||&cLocked'
+        '6': '&7Saturation 4||&7Last Stand 1'
+        '7': '&7Saturation 4||&7Last Stand 2'
+    tempered_leggings:
+      itemtype: iron_leggings
+      name: '&aTempered Leggings'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked'
+        '2': '&7Absorbing 2||&cLocked'
+        '3': '&7Absorbing 3||&cLocked'
+        '4': '&7Absorbing 4||&cLocked'
+        '5': '&7Absorbing 4||&cLocked'
+        '6': '&7Absorbing 4||&7Wither 1'
+        '7': '&7Absorbing 4||&7Wither 2'
+    tempered_chestplate:
+      itemtype: iron_chestplate
+      name: '&aTempered Chestplate'
+      enchants:
+        '1': '&7Reinforced 1||&cLocked'
+        '2': '&7Reinforced 2||&cLocked'
+        '3': '&7Reinforced 3||&cLocked'
+        '4': '&7Reinforced 4||&cLocked'
+        '5': '&7Reinforced 4||&cLocked'
+        '6': '&7Reinforced 4||&7Nutrition 1'
+        '7': '&7Reinforced 4||&7Nutrition 2'
+    tempered_helmet:
+      itemtype: iron_helmet
+      name: '&aTempered Helmet'
+      enchants:
+        '1': '&7Valor 1||&cLocked'
+        '2': '&7Valor 2||&cLocked'
+        '3': '&7Valor 3||&cLocked'
+        '4': '&7Valor 4||&cLocked'
+        '5': '&7Valor 4||&cLocked'
+        '6': '&7Valor 4||&7Slow 1'
+        '7': '&7Valor 4||&7Slow 2'
+  epic:
+    reinforced_helmet:
+      itemtype: iron_helmet
+      name: '&5Reinforced Helmet'
+      enchants:
+        '1': '&7Savior 1||&cLocked||&cLocked'
+        '2': '&7Savior 2||&cLocked||&cLocked'
+        '3': '&7Savior 3||&cLocked||&cLocked'
+        '4': '&7Savior 4||&7Valor 1||&cLocked'
+        '5': '&7Savior 4||&7Valor 2||&cLocked'
+        '6': '&7Savior 4||&7Valor 3||&cLocked'
+        '7': '&7Savior 4||&7Valor 4||&7Reinforced 1'
+    reinforced_chestplate:
+      itemtype: iron_chestplate
+      name: '&5Reinforced Chestplate'
+      enchants:
+        '1': '&7Reinforced 1||&cLocked'
+        '2': '&7Reinforced 2||&cLocked'
+        '3': '&7Reinforced 3||&cLocked'
+        '4': '&7Reinforced 4||&7Harden 1'
+        '5': '&7Reinforced 4||&7Harden 2'
+        '6': '&7Reinforced 4||&7Harden 3'
+        '7': '&7Reinforced 4||&7Harden 4'
+    reinforced_leggings:
+      itemtype: iron_leggings
+      name: '&5Reinforced Leggings'
+      enchants:
+        '1': '&7Enlightment 1||&cLocked||&cLocked'
+        '2': '&7Enlightment 2||&cLocked||&cLocked'
+        '3': '&7Enlightment 3||&cLocked||&cLocked'
+        '4': '&7Enlightment 4||&7Shine 1||&cLocked'
+        '5': '&7Enlightment 4||&7Shine 2||&cLocked'
+        '6': '&7Enlightment 4||&7Shine 3||&cLocked'
+        '7': '&7Enlightment 4||&7Shine 4||&7Reinforced 1'
+    reinforced_boots:
+      itemtype: iron_boots
+      name: '&5Reinforced Boots'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&7Escape 1||&cLocked'
+        '5': '&7Nutrition 4||&7Escape 2||&cLocked'
+        '6': '&7Nutrition 4||&7Escape 3||&cLocked'
+        '7': '&7Nutrition 4||&7Escape 4||&7Reinforced 1'
+    warlock_helmet:
+      itemtype: leather_helmet
+      name: '&5Warlock Helmet'
+      enchants:
+        '1': '&7Immolate 1||&cLocked||&cLocked'
+        '2': '&7Immolate 2||&cLocked||&cLocked'
+        '3': '&7Immolate 3||&cLocked||&cLocked'
+        '4': '&7Immolate 4||&7Absorbing 1||&cLocked'
+        '5': '&7Immolate 4||&7Absorbing 2||&cLocked'
+        '6': '&7Immolate 4||&7Abosrbing 3||&cLocked'
+        '7': '&7Immolate 4||&7Abosrbing 4||&7Reinforced 1'
+    warlock_chestplate:
+      itemtype: leather_chestplate
+      name: '&5Warlock Chestplate'
+      enchants:
+        '1': '&7Overwhelm 1||&cLocked||&cLocked'
+        '2': '&7Overwhelm 2||&cLocked||&cLocked'
+        '3': '&7Overwhelm 3||&cLocked||&cLocked'
+        '4': '&7Overwhelm 4||&7Bane 1||&cLocked'
+        '5': '&7Overwhelm 4||&7Bane 2||&cLocked'
+        '6': '&7Overwhelm 4||&7Bane 3||&cLocked'
+        '7': '&7Overwhelm 4||&7Bane 4||&7Reinforced 1'
+    warlock_leggings:
+      itemtype: leather_leggings
+      name: '&5Warlock Leggings'
+      enchants:
+        '1': '&7Slow 1||&cLocked||&cLocked'
+        '2': '&7Slow 2||&cLocked||&cLocked'
+        '3': '&7Slow 3||&cLocked||&cLocked'
+        '4': '&7Slow 4||&7Cactus 1||&cLocked'
+        '5': '&7Slow 4||&7Cactus 2||&cLocked'
+        '6': '&7Slow 4||&7Cactus 3||&cLocked'
+        '7': '&7Slow 4||&7Cactus 4||&7Reinforced 1'
+    warlock_boots:
+      itemtype: leather_boots
+      name: '&5Warlock Boots'
+      enchants:
+        '1': '&7Smoke Screen 1||&cLocked||&cLocked'
+        '2': '&7Smoke Screen 2||&cLocked||&cLocked'
+        '3': '&7Smoke Screen 3||&cLocked||&cLocked'
+        '4': '&7Smoke Screen 4||&7ignite 1||&cLocked'
+        '5': '&7Smoke Screen 4||&7ignite 2||&cLocked'
+        '6': '&7Smoke Screen 4||&7ignite 3||&cLocked'
+        '7': '&7Smoke Screen 4||&7ignite 4||&7Reinforced 1'
+    uranium_helmet:
+      itemtype: iron_Helmet
+      name: '&5Uranium Helmet'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked'
+        '2': '&7Absorbing 2||&cLocked||&cLocked'
+        '3': '&7Absorbing 3||&cLocked||&cLocked'
+        '4': '&7Absorbing 4||&7Snare 1||&cLocked'
+        '5': '&7Absorbing 4||&7Snare 2||&cLocked'
+        '6': '&7Absorbing 4||&7Snare 3||&cLocked'
+        '7': '&7Absorbing 4||&7Snare 4||&7Reinforced 1'
+    uranium_chestplate:
+      itemtype: iron_chestplate
+      name: '&5Uranium Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Slow 1||&cLocked'
+        '5': '&7Tank 4||&7Slow 2||&cLocked'
+        '6': '&7Tank 4||&7Slow 3||&cLocked'
+        '7': '&7Tank 4||&7Slow 4||&7Reinforced 1'
+    uranium_leggings:
+      itemtype: iron_leggings
+      name: '&5Uranium Leggings'
+      enchants:
+        '1': '&7Bane 1||&cLocked||&cLocked'
+        '2': '&7Bane 2||&cLocked||&cLocked'
+        '3': '&7Bane 3||&cLocked||&cLocked'
+        '4': '&7Bane 4||&7Amplify 1||&cLocked'
+        '5': '&7Bane 4||&7Amplify 2||&cLocked'
+        '6': '&7Bane 4||&7Amplify 3||&cLocked'
+        '7': '&7Bane 4||&7Amplify 4||&7Reinforced 1'
+    uranium_boots:
+      itemtype: iron_boots
+      name: '&5Uranium Boots'
+      enchants:
+        '1': '&7Radioactive 1||&cLocked||&cLocked'
+        '2': '&7Radioactive 2||&cLocked||&cLocked'
+        '3': '&7Radioactive 3||&cLocked||&cLocked'
+        '4': '&7Radioactive 4||&7Savior 1||&cLocked'
+        '5': '&7Radioactive 4||&7Savior 2||&cLocked'
+        '6': '&7Radioactive 4||&7Savior 3||&cLocked'
+        '7': '&7Radioactive 4||&7Savior 4||&7Reinforced 1'
+    platinum_helmet:
+      itemtype: iron_Helmet
+      name: '&5Platinum Helmet'
+      enchants:
+        '1': '&7Lustrous 1||&cLocked||&cLocked'
+        '2': '&7Lustrous 2||&cLocked||&cLocked'
+        '3': '&7Lustrous 3||&cLocked||&cLocked'
+        '4': '&7Lustrous 4||&7Valor 1||&cLocked'
+        '5': '&7Lustrous 4||&7Valor 2||&cLocked'
+        '6': '&7Lustrous 4||&7Valor 3||&cLocked'
+        '7': '&7Lustrous 4||&7Valor 4||&7Reinforced 1'
+    platinum_chestplate:
+      itemtype: iron_chestplate
+      name: '&5Platinum Chestplate'
+      enchants:
+        '1': '&7Dull 1||&cLocked||&cLocked'
+        '2': '&7Dull 2||&cLocked||&cLocked'
+        '3': '&7Dull 3||&cLocked||&cLocked'
+        '4': '&7Dull 4||&7Slow 1||&cLocked'
+        '5': '&7Dull 4||&7Slow 2||&cLocked'
+        '6': '&7Dull 4||&7Slow 3||&cLocked'
+        '7': '&7Dull 4||&7Slow 4||&7Reinforced 1'
+    platinum_leggings:
+      itemtype: iron_leggings
+      name: '&5Platinum Leggings'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&7Withering 1||&cLocked'
+        '5': '&7Kadabra 4||&7Withering 2||&cLocked'
+        '6': '&7Kadabra 4||&7Withering 3||&cLocked'
+        '7': '&7Kadabra 4||&7Withering 4||&7Reinforced 1'
+    platinum_boots:
+      itemtype: iron_boots
+      name: '&5Platinum Boots'
+      enchants:
+        '1': '&7Escape 1||&cLocked||&cLocked'
+        '2': '&7Escape 2||&cLocked||&cLocked'
+        '3': '&7Escape 3||&cLocked||&cLocked'
+        '4': '&7Escape 4||&7Firm 1||&cLocked'
+        '5': '&7Escape 4||&7Firm 2||&cLocked'
+        '6': '&7Escape 4||&7Firm 3||&cLocked'
+        '7': '&7Escape 4||&7Firm 4||&7Reinforced 1'
+    viking_helmet:
+      itemtype: chainmail_helmet
+      name: '&5Viking Helmet'
+      enchants:
+        '1': '&7Precise||&cLocked||&cLocked'
+        '2': '&7Precise 2||&cLocked||&cLocked'
+        '3': '&7Precise 3||&cLocked||&cLocked'
+        '4': '&7Precise 4||&7Valor 1||&cLocked'
+        '5': '&7Precise 4||&7Valor 2||&cLocked'
+        '6': '&7Precise 4||&7Valor 3||&cLocked'
+        '7': '&7Precise 4||&7valor 4||&7Reinforced 1'
+    viking_chestplate:
+      itemtype: chainmail_chestplate
+      name: '&5Viking Chestplate'
+      enchants:
+        '1': '&7Bloodlust 1||&cLocked||&cLocked'
+        '2': '&7Bloodlust 2||&cLocked||&cLocked'
+        '3': '&7Bloodlust 3||&cLocked||&cLocked'
+        '4': '&7Bloodlust 4||&7Determination 1||&cLocked'
+        '5': '&7Bloodlust 4||&7Determination 2||&cLocked'
+        '6': '&7Bloodlust 4||&7Determination 3||&cLocked'
+        '7': '&7Bloodlust 4||&7Determination 4||&7Reinforced 1'
+    viking_leggings:
+      itemtype: chainmail_leggings
+      name: '&5Viking Leggings'
+      enchants:
+        '1': '&7Enlightment 1||&cLocked||&cLocked'
+        '2': '&7Enlightment 2||&cLocked||&cLocked'
+        '3': '&7Enlightment 3||&cLocked||&cLocked'
+        '4': '&7Enlightment 4||&7Nutrition 1||&cLocked'
+        '5': '&7Enlightment 4||&7Nutrition 2||&cLocked'
+        '6': '&7Enlightment 4||&7Nutrition 3||&cLocked'
+        '7': '&7Enlightment 4||&7Nutrition 4||&7Reinforced 1'
+    viking_boots:
+      itemtype: chainmail_boots
+      name: '&5Viking Boots'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked||&cLocked'
+        '2': '&7Last Stand 2||&cLocked||&cLocked'
+        '3': '&7Last Stand 3||&cLocked||&cLocked'
+        '4': '&7Last Stand 4||&7Energy 1||&cLocked'
+        '5': '&7Last Stand 4||&7Energy 2||&cLocked'
+        '6': '&7Last Stand 4||&7Energy 3||&cLocked'
+        '7': '&7Last Stand 4||&7Energy 4||&7Reinforced 1'
+    warden's_helmet:
+      itemtype: diamond_helmet
+      name: '&5Warden''s Helmet'
+      enchants:
+        '1': '&7Counter 1||&cLocked||&cLocked'
+        '2': '&7Counter 2||&cLocked||&cLocked'
+        '3': '&7Counter 3||&cLocked||&cLocked'
+        '4': '&7Counter 4||&7Snare 1||&cLocked'
+        '5': '&7Counter 4||&7Snare 2||&cLocked'
+        '6': '&7Counter 4||&7Snare 3||&cLocked'
+        '7': '&7Counter 4||&7Snare 4||&7Reinforced 1'
+    warden's_chestplate:
+      itemtype: diamond_chestplate
+      name: '&5Warden''s Chestplate'
+      enchants:
+        '1': '&7Harden 1||&cLocked||&cLocked'
+        '2': '&7Harden 2||&cLocked||&cLocked'
+        '3': '&7Harden 3||&cLocked||&cLocked'
+        '4': '&7Harden 4||&7Savior 1||&cLocked'
+        '5': '&7Harden 4||&7Savior 2||&cLocked'
+        '6': '&7Harden 4||&7Savior 3||&cLocked'
+        '7': '&7Harden 4||&7Savior 4||&7Reinforced 1'
+    warden's_leggings:
+      itemtype: diamond_leggings
+      name: '&5Warden''s Leggings'
+      enchants:
+        '1': '&7Valor 1||&cLocked||&cLocked'
+        '2': '&7Valor 2||&cLocked||&cLocked'
+        '3': '&7Valor 3||&cLocked||&cLocked'
+        '4': '&7Valor 4||&7Enlightment 1||&cLocked'
+        '5': '&7Valor 4||&7Enlightment 2||&cLocked'
+        '6': '&7Valor 4||&7Enlightment 3||&cLocked'
+        '7': '&7Valor 4||&7Enlightment 4||&7Reinforced 1'
+    warden's_boots:
+      itemtype: diamond_boots
+      name: '&5Warden''s Boots'
+      enchants:
+        '1': '&7Saturation 1||&cLocked||&cLocked'
+        '2': '&7Saturation 2||&cLocked||&cLocked'
+        '3': '&7Saturation 3||&cLocked||&cLocked'
+        '4': '&7Saturation 4||&7Escape 1||&cLocked'
+        '5': '&7Saturation 4||&7Escape 2||&cLocked'
+        '6': '&7Saturation 4||&7Escape 3||&cLocked'
+        '7': '&7Saturation 4||&7Escape 4||&7Reinforced 1'
+    eternal_boots:
+      itemtype: diamond_boots
+      name: '&5Eternal Boots'
+      enchants:
+        '1': '&7Escape 1||&cLocked||&cLocked'
+        '2': '&7Escape 2||&cLocked||&cLocked'
+        '3': '&7Escape 3||&cLocked||&cLocked'
+        '4': '&7Escape 4||&cLocked||&cLocked'
+        '5': '&7Escape 4||&7Absorbing 1||&cLocked'
+        '6': '&7Escape 4||&7Absorbing 2||&cLocked'
+        '7': '&7Escape 4||&7Absorbing 2||&7Reinforced 1'
+    eternal_leggings:
+      itemtype: diamond_leggings
+      name: '&5Eternal Leggings'
+      enchants:
+        '1': '&7Slow 1||&cLocked||&cLocked'
+        '2': '&7Slow 2||&cLocked||&cLocked'
+        '3': '&7Slow 3||&cLocked||&cLocked'
+        '4': '&7Slow 4||&cLocked||&cLocked'
+        '5': '&7Slow 4||&7Snare 1||&cLocked'
+        '6': '&7Slow 4||&7Snare 2||&cLocked'
+        '7': '&7Slow 4||&7Snare 2||&7Reinforced 1'
+    eternal_chestplate:
+      itemtype: diamond_chestplate
+      name: '&5Eternal Chestplate'
+      enchants:
+        '1': '&7Bane 1||&cLocked||&cLocked'
+        '2': '&7Bane 2||&cLocked||&cLocked'
+        '3': '&7Bane 3||&cLocked||&cLocked'
+        '4': '&7Bane 4||&cLocked||&cLocked'
+        '5': '&7Bane 4||&7Nutrition 1||&cLocked'
+        '6': '&7Bane 4||&7Nutrition 2||&cLocked'
+        '7': '&7Bane 4||&7Nutrition 2||&7Reinforced 1'
+    eternal_helmet:
+      itemtype: diamond_helmet
+      name: '&5Eternal Helmet'
+      enchants:
+        '1': '&7Harden 1||&cLocked||&cLocked'
+        '2': '&7Harden 2||&cLocked||&cLocked'
+        '3': '&7Harden 3||&cLocked||&cLocked'
+        '4': '&7Harden 4||&cLocked||&cLocked'
+        '5': '&7Harden 4||&7Self Destruct 1||&cLocked'
+        '6': '&7Harden 4||&7Self Destruct 2||&cLocked'
+        '7': '&7Harden 4||&7Self Destruct 2||&7Reinforced 1'
+    warlord_boots:
+      itemtype: diamond_boots
+      name: '&5Warlord Boots'
+      enchants:
+        '1': '&7Smoke Screen 1||&cLocked||&cLocked'
+        '2': '&7Smoke Screen 2||&cLocked||&cLocked'
+        '3': '&7Smoke Screen 3||&cLocked||&cLocked'
+        '4': '&7Smoke Screen 4||&cLocked||&cLocked'
+        '5': '&7Smoke Screen 4||&7Snare 1||&cLocked'
+        '6': '&7Smoke Screen 4||&7Snare 2||&cLocked'
+        '7': '&7Smoke Screen 4||&7Snare 2||&7Reinforced 1'
+    warlord_leggings:
+      itemtype: diamond_leggings
+      name: '&5Warlord Leggings'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&cLocked||&cLocked'
+        '5': '&7Kadabra 4||&7Wither 1||&cLocked'
+        '6': '&7Kadabra 4||&7Wither 2||&cLocked'
+        '7': '&7Kadabra 4||&7Wither 2||&7Reinforced 1'
+    warlord_chestplate:
+      itemtype: diamond_chestplate
+      name: '&5Warlord Chestplate'
+      enchants:
+        '1': '&7Enlightened 1||&cLocked||&cLocked'
+        '2': '&7Enlightened 2||&cLocked||&cLocked'
+        '3': '&7Enlightened 3||&cLocked||&cLocked'
+        '4': '&7Enlightened 4||&cLocked||&cLocked'
+        '5': '&7Enlightened 4||&7Snare 1||&cLocked'
+        '6': '&7Enlightened 4||&7Snare 2||&cLocked'
+        '7': '&7Enlightened 4||&7Snare 2||&7Reinforced 1'
+    warlord_helmet:
+      itemtype: diamond_helmet
+      name: '&5Warlord Helmet'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&cLocked||&cLocked'
+        '5': '&7Nutrition 4||&7Snare 1||&cLocked'
+        '6': '&7Nutrition 4||&7Snare 2||&cLocked'
+        '7': '&7Nutrition 4||&7Snare 2||&7Reinforced 1'
+    forged_boots:
+      itemtype: iron_boots
+      name: '&5Forged Boots'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked||&cLocked'
+        '2': '&7Last Stand 2||&cLocked||&cLocked'
+        '3': '&7Last Stand 3||&cLocked||&cLocked'
+        '4': '&7Last Stand 4||&cLocked||&cLocked'
+        '5': '&7Last Stand 4||&7Saturation 1||&cLocked'
+        '6': '&7Last Stand 4||&7Saturation 2||&cLocked'
+        '7': '&7Last Stand 4||&7Saturation 2||&7Reinforced 1'
+    forged_leggings:
+      itemtype: iron_leggings
+      name: '&5Forged Leggings'
+      enchants:
+        '1': '&7Cactus 1||&cLocked||&cLocked'
+        '2': '&7Cactus 2||&cLocked||&cLocked'
+        '3': '&7Cactus 3||&cLocked||&cLocked'
+        '4': '&7Cactus 4||&cLocked||&cLocked'
+        '5': '&7Cactus 4||&7Slow 1||&cLocked'
+        '6': '&7Cactus 4||&7Slow 2||&cLocked'
+        '7': '&7Cactus 4||&7Slow 2||&7Reinforced 1'
+    forged_chestplate:
+      itemtype: iron_chestplate
+      name: '&5Forged Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&cLocked||&cLocked'
+        '5': '&7Tank 4||&7Cactus 1||&cLocked'
+        '6': '&7Tank 4||&7Cactus 2||&cLocked'
+        '7': '&7Tank 4||&7Cactus 2||&7Reinforced 1'
+    forged_helmet:
+      itemtype: iron_helmet
+      name: '&5Forged Helmet'
+      enchants:
+        '1': '&7Slow 1||&cLocked||&cLocked'
+        '2': '&7Slow 2||&cLocked||&cLocked'
+        '3': '&7Slow 3||&cLocked||&cLocked'
+        '4': '&7Slow 4||&cLocked||&cLocked'
+        '5': '&7Slow 4||&7Hastened 1||&cLocked'
+        '6': '&7Slow 4||&7Hastened 2||&cLocked'
+        '7': '&7Slow 4||&7Hastened 2||&7Reinforced 1'
+    aluminium_boots:
+      itemtype: leather_boots
+      name: '&5Aluminium Boots'
+      enchants:
+        '1': '&7Blast Off 1||&cLocked||&cLocked'
+        '2': '&7Blast Off 2||&cLocked||&cLocked'
+        '3': '&7Blast Off 3||&cLocked||&cLocked'
+        '4': '&7Blast Off 4||&cLocked||&cLocked'
+        '5': '&7Blast Off 4||&7Saturation 1||&cLocked'
+        '6': '&7Blast Off 4||&7Saturation 2||&cLocked'
+        '7': '&7Blast Off 4||&7Saturation 2||&7Reinforced 1'
+    aluminium_leggings:
+      itemtype: leather_leggings
+      name: '&5Aluminium Leggings'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked'
+        '2': '&7Snare 2||&cLocked||&cLocked'
+        '3': '&7Snare 3||&cLocked||&cLocked'
+        '4': '&7Snare 4||&cLocked||&cLocked'
+        '5': '&7Snare 4||&7Wither 1||&cLocked'
+        '6': '&7Snare 4||&7Wither 2||&cLocked'
+        '7': '&7Snare 4||&7Wither 2||&7Reinforced 1'
+    aluminium_chestplate:
+      itemtype: leather_chestplate
+      name: '&5Aluminium Chestplate'
+      enchants:
+        '1': '&7Ignite 1||&cLocked||&cLocked'
+        '2': '&7Ignite 2||&cLocked||&cLocked'
+        '3': '&7Ignite 3||&cLocked||&cLocked'
+        '4': '&7Ignite 4||&cLocked||&cLocked'
+        '5': '&7Ignite 4||&7Cactus 1||&cLocked'
+        '6': '&7Ignite 4||&7Cactus 2||&cLocked'
+        '7': '&7Ignite 4||&7Cactus 2||&7Reinforced 1'
+    aluminium_helmet:
+      itemtype: leather_helmet
+      name: '&5Aluminium Helmet'
+      enchants:
+        '1': '&7Valor 1||&cLocked||&cLocked'
+        '2': '&7Valor 2||&cLocked||&cLocked'
+        '3': '&7Valor 3||&cLocked||&cLocked'
+        '4': '&7Valor 4||&cLocked||&cLocked'
+        '5': '&7Valor 4||&7Savior 1||&cLocked'
+        '6': '&7Valor 4||&7Savior 2||&cLocked'
+        '7': '&7Valor 4||&7Savior 2||&7Reinforced 1'
+  legendary:
+    king's_helmet:
+      itemtype: leather_helmet
+      name: '&cKing''s Helmet'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked'
+        '2': '&7Snare 2||&cLocked||&cLocked'
+        '3': '&7Snare 3||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Encourage 1||&cLocked'
+        '5': '&7Snare 4||&7Encourage 2||&cLocked'
+        '6': '&7Snare 4||&7Encourage 3||&cLocked'
+        '7': '&7Snare 4||&7Encourage 4||&7Reinforced 1'
+    king's_chestplate:
+      itemtype: leather_chestplate
+      name: '&cKing''s Chestplate'
+      enchants:
+        '1': '&7Counter 1||&cLocked||&cLocked'
+        '2': '&7Counter 2||&cLocked||&cLocked'
+        '3': '&7Counter 3||&cLocked||&cLocked'
+        '4': '&7Counter 4||&7Encourage 1||&cLocked'
+        '5': '&7Counter 4||&7Encourage 2||&cLocked'
+        '6': '&7Counter 4||&7Encourage 3||&cLocked'
+        '7': '&7Counter 4||&7Encourage 4||&7Reinforced 1'
+    king's_leggings:
+      itemtype: leather_leggings
+      name: '&cKing''s Leggings'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked'
+        '2': '&7Absorbing 2||&cLocked||&cLocked'
+        '3': '&7Absorbing 3||&cLocked||&cLocked'
+        '4': '&7Absorbing 4||&7Encourage 1||&cLocked'
+        '5': '&7Absorbing 4||&7Encourage 2||&cLocked'
+        '6': '&7Absorbing 4||&7Encourage 3||&cLocked'
+        '7': '&7Absorbing 4||&7Encourage 4||&7Reinforced 1'
+    king's_boots:
+      itemtype: leather_Boots
+      name: '&cKing''s Boots'
+      enchants:
+        '1': '&7Withering 1||&cLocked||&cLocked'
+        '2': '&7Withering 2||&cLocked||&cLocked'
+        '3': '&7Withering 3||&cLocked||&cLocked'
+        '4': '&7Withering 4||&7Encourage 1||&cLocked'
+        '5': '&7Withering 4||&7Encourage 2||&cLocked'
+        '6': '&7Withering 4||&7Encourage 3||&cLocked'
+        '7': '&7Withering 4||&7Encourage 4||&7Reinforced 1'
+    eclipse_helmet:
+      itemtype: leather_helmet
+      name: '&cEclipse Helmet'
+      enchants:
+        '1': '&7Savior 1||&cLocked||&cLocked'
+        '2': '&7Savior 2||&cLocked||&cLocked'
+        '3': '&7Savior 3||&cLocked||&cLocked'
+        '4': '&7Savior 4||&7Astral 1||&cLocked'
+        '5': '&7Savior 4||&7Astral 2||&cLocked'
+        '6': '&7Savior 4||&7Astral 3||&cLocked'
+        '7': '&7Savior 4||&7Astral 4||&7Reinforced 1'
+    eclipse_chestplate:
+      itemtype: leather_chestplate
+      name: '&cEclipse Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Astral 1||&cLocked'
+        '5': '&7Tank 4||&7Astral 2||&cLocked'
+        '6': '&7Tank 4||&7Astral 3||&cLocked'
+        '7': '&7Tank 4||&7Astral 4||&7Reinforced 1'
+    eclipse_leggings:
+      itemtype: leather_leggings
+      name: '&cEclipse Leggings'
+      enchants:
+        '1': '&7ignite 1||&cLocked||&cLocked'
+        '2': '&7ignite 2||&cLocked||&cLocked'
+        '3': '&7ignite 3||&cLocked||&cLocked'
+        '4': '&7ignite 4||&7Astral 1||&cLocked'
+        '5': '&7ignite 4||&7Astral 2||&cLocked'
+        '6': '&7ignite 4||&7Astral 3||&cLocked'
+        '7': '&7ignite 4||&7Astral 4||&7Reinforced 1'
+    eclipse_boots:
+      itemtype: leather_boots
+      name: '&cEclipse Boots'
+      enchants:
+        '1': '&7Saturation 1||&cLocked||&cLocked'
+        '2': '&7Saturation 2||&cLocked||&cLocked'
+        '3': '&7Saturation 3||&cLocked||&cLocked'
+        '4': '&7Saturation 4||&7Astral 1||&cLocked'
+        '5': '&7Saturation 4||&7Astral 2||&cLocked'
+        '6': '&7Saturation 4||&7Astral 3||&cLocked'
+        '7': '&7Saturation 4||&7Astral 4||&7Reinforced 1'
+    wyvern_helmet:
+      itemtype: iron_helmet
+      name: '&cWyvern Helmet'
+      enchants:
+        '1': '&7Venom 1||&cLocked||&cLocked'
+        '2': '&7Venom 2||&cLocked||&cLocked'
+        '3': '&7Venom 3||&cLocked||&cLocked'
+        '4': '&7Venom 4||&7Rage 1||&cLocked'
+        '5': '&7Venom 4||&7Rage 2||&cLocked'
+        '6': '&7Venom 4||&7Rage 3||&cLocked'
+        '7': '&7Venom 4||&7Rage 4||&7Reinforced 1'
+    wyvern_chestplate:
+      itemtype: iron_chestplate
+      name: '&cWyvern Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Rage 1||&cLocked'
+        '5': '&7Tank 4||&7Rage 2||&cLocked'
+        '6': '&7Tank 4||&7Rage 3||&cLocked'
+        '7': '&7Tank 4||&7Rage 4||&7Reinforced 1'
+    wyvern_leggings:
+      itemtype: iron_leggings
+      name: '&cWyvern Leggings'
+      enchants:
+        '1': '&7Overwhelm 1||&cLocked||&cLocked'
+        '2': '&7Overwhelm 2||&cLocked||&cLocked'
+        '3': '&7Overwhelm 3||&cLocked||&cLocked'
+        '4': '&7Overwhelm 4||&7Rage 1||&cLocked'
+        '5': '&7Overwhelm 4||&7Rage 2||&cLocked'
+        '6': '&7Overwhelm 4||&7Rage 3||&cLocked'
+        '7': '&7Overwhelm 4||&7Rage 4||&7Reinforced 1'
+    wyvern_boots:
+      itemtype: iron_Boots
+      name: '&cWyvern Boots'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&7Rage 1||&cLocked'
+        '5': '&7Nutrition 4||&7Rage 2||&cLocked'
+        '6': '&7Nutrition 4||&7Rage 3||&cLocked'
+        '7': '&7Nutrition 4||&7Rage 4||&7Reinforced 1'
+    stardust_helmet:
+      itemtype: leather_helmet
+      name: '&cStardust Helmet'
+      enchants:
+        '1': '&7Valor 1||&cLocked||&cLocked'
+        '2': '&7Valor 2||&cLocked||&cLocked'
+        '3': '&7Valor 3||&cLocked||&cLocked'
+        '4': '&7Valor 4||&7Cluster 1||&cLocked'
+        '5': '&7Valor 4||&7Cluster 2||&cLocked'
+        '6': '&7Valor 4||&7Cluster 3||&cLocked'
+        '7': '&7Valor 4||&7Cluster 4||&7Reinforced 1'
+    stardust_chestplate:
+      itemtype: leather_chestplate
+      name: '&cStardust Chestplate'
+      enchants:
+        '1': '&7Dull 1||&cLocked||&cLocked'
+        '2': '&7Dull 2||&cLocked||&cLocked'
+        '3': '&7Dull 3||&cLocked||&cLocked'
+        '4': '&7Dull 4||&7Cluster 1||&cLocked'
+        '5': '&7Dull 4||&7Cluster 2||&cLocked'
+        '6': '&7Dull 4||&7Cluster 3||&cLocked'
+        '7': '&7Dull 4||&7Cluster 4||&7Reinforced 1'
+    stardust_leggings:
+      itemtype: leather_leggings
+      name: '&cStardust Leggings'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&7Cluster 1||&cLocked'
+        '5': '&7Nutrition 4||&7Cluster 2||&cLocked'
+        '6': '&7Nutrition 4||&7Cluster 3||&cLocked'
+        '7': '&7Nutrition 4||&7Cluster 4||&7Reinforced 1'
+    stardust_boots:
+      itemtype: leather_boots
+      name: '&cStardust Boots'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked'
+        '2': '&7Snare 2||&cLocked||&cLocked'
+        '3': '&7Snare 3||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Cluster 1||&cLocked'
+        '5': '&7Snare 4||&7Cluster 2||&cLocked'
+        '6': '&7Snare 4||&7Cluster 3||&cLocked'
+        '7': '&7Snare 4||&7Cluster 4||&7Reinforced 1'
+    slayer_helmet:
+      itemtype: diamond_helmet
+      name: '&cSlayer Helmet'
+      enchants:
+        '1': '&7Harden 1||&cLocked||&cLocked'
+        '2': '&7Harden 2||&cLocked||&cLocked'
+        '3': '&7Harden 3||&cLocked||&cLocked'
+        '4': '&7Harden 4||&7Root 1||&cLocked'
+        '5': '&7Harden 4||&7Root 2||&cLocked'
+        '6': '&7Harden 4||&7Root 3||&cLocked'
+        '7': '&7Harden 4||&7Root 4||&7Reinforced 1'
+    slayer_chestplate:
+      itemtype: diamond_chestplate
+      name: '&cSlayer Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Root 1||&cLocked'
+        '5': '&7Tank 4||&7Root 2||&cLocked'
+        '6': '&7Tank 4||&7Root 3||&cLocked'
+        '7': '&7Tank 4||&7Root 4||&7Reinforced 1'
+    slayer_leggings:
+      itemtype: diamond_leggings
+      name: '&cSlayer Leggings'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&7Root 1||&cLocked'
+        '5': '&7Kadabra 4||&7Root 2||&cLocked'
+        '6': '&7Kadabra 4||&7Root 3||&cLocked'
+        '7': '&7Kadabra 4||&7Root 4||&7Reinforced 1'
+    slayer_boots:
+      itemtype: diamond_boots
+      name: '&cSlayer Boots'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked'
+        '2': '&7Absorbing 2||&cLocked||&cLocked'
+        '3': '&7Absorbing 3||&cLocked||&cLocked'
+        '4': '&7Absorbing 4||&7Root 1||&cLocked'
+        '5': '&7Absorbing 4||&7Root 2||&cLocked'
+        '6': '&7Absorbing 4||&7Root 3||&cLocked'
+        '7': '&7Absorbing 4||&7Root 4||&7Reinforced 1'
+    compulsion_helmet:
+      itemtype: diamond_helmet
+      name: '&cCompulsion Helmet'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked'
+        '2': '&7Snare 2||&cLocked||&cLocked'
+        '3': '&7Snare 3||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Impulse 1||&cLocked'
+        '5': '&7Snare 4||&7Impulse 2||&cLocked'
+        '6': '&7Snare 4||&7Impulse 3||&cLocked'
+        '7': '&7Snare 4||&7Impulse 4||&7Reinforced 1'
+    compulsion_chestplate:
+      itemtype: diamond_chestplate
+      name: '&cCompulsion Chestplate'
+      enchants:
+        '1': '&7Bane 1||&cLocked||&cLocked'
+        '2': '&7Bane 2||&cLocked||&cLocked'
+        '3': '&7Bane 3||&cLocked||&cLocked'
+        '4': '&7Bane 4||&7Impulse 1||&cLocked'
+        '5': '&7Bane 4||&7Impulse 2||&cLocked'
+        '6': '&7Bane 4||&7Impulse 3||&cLocked'
+        '7': '&7Bane 4||&7Impulse 4||&7Reinforced 1'
+    compulsion_leggings:
+      itemtype: diamond_leggings
+      name: '&cCompulsion Leggings'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&7Impulse 1||&cLocked'
+        '5': '&7Kadabra 4||&7Impulse 2||&cLocked'
+        '6': '&7Kadabra 4||&7Impulse 3||&cLocked'
+        '7': '&7Kadabra 4||&7Impulse 4||&7Reinforced 1'
+    compulsion_boots:
+      itemtype: diamond_boots
+      name: '&cCompulsion Boots'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&7Impulse 1||&cLocked'
+        '5': '&7Nutrition 4||&7Impulse 2||&cLocked'
+        '6': '&7Nutrition 4||&7Impulse 3||&cLocked'
+        '7': '&7Nutrition 4||&7Impulse 4||&7Reinforced 1'
+    chainmail_boots:
+      itemtype: chainmail_boots
+      name: '&cChainmail Boots'
+      enchants:
+        '1': '&7Slow 1||&cLocked||&cLocked'
+        '2': '&7Slow 2||&cLocked||&cLocked'
+        '3': '&7Slow 3||&cLocked||&cLocked'
+        '4': '&7Slow 4||&7Cactus 1||&cLocked'
+        '5': '&7Slow 4||&7Cactus 2||&cLocked'
+        '6': '&7Slow 4||&7Cactus 2||&7Reinforced 1'
+        '7': '&7Slow 4||&7Cactus 2||&7Reinforced 2'
+    chainmail_leggings:
+      itemtype: chainmail_leggings
+      name: '&cChainmail Leggings'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&7Cactus 1||&cLocked'
+        '5': '&7Kadabra 4||&7Cactus 2||&cLocked'
+        '6': '&7Kadabra 4||&7Cactus 2||&7Reinforced 1'
+        '7': '&7Kadabra 4||&7Cactus 2||&7Reinforced 2'
+    chainmail_chestplate:
+      itemtype: chainmail_chestplate
+      name: '&cChainmail Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Cactus 1||&cLocked'
+        '5': '&7Tank 4||&7Cactus 2||&cLocked'
+        '6': '&7Tank 4||&7Cactus 2||&7Reinforced 1'
+        '7': '&7Tank 4||&7Cactus 2||&7Reinforced 2'
+    chainmail_helmet:
+      itemtype: chainmail_helmet
+      name: '&cChainmail Helmet'
+      enchants:
+        '1': '&7Savior 1||&cLocked||&cLocked'
+        '2': '&7Savior 2||&cLocked||&cLocked'
+        '3': '&7Savior 3||&cLocked||&cLocked'
+        '4': '&7Savior 4||&7Cactus 1||&cLocked'
+        '5': '&7Savior 4||&7Cactus 2||&cLocked'
+        '6': '&7Savior 4||&7Cactus 2||&7Reinforced 1'
+        '7': '&7Savior 4||&7Cactus 2||&7Reinforced 2'
+    red_knight_boots:
+      itemtype: leather_boots
+      name: '&cRed Knight Boots'
+      enchants:
+        '1': '&7Escape 1||&cLocked||&cLocked'
+        '2': '&7Escape 2||&cLocked||&cLocked'
+        '3': '&7Escape 3||&cLocked||&cLocked'
+        '4': '&7Escape 4||&7Hastened 1||&cLocked'
+        '5': '&7Escape 4||&7Hastened 2||&cLocked'
+        '6': '&7Escape 4||&7Hastened 2||&7Reinforced 1'
+        '7': '&7Escape 4||&7Hastened 2||&7Reinforced 2'
+    red_knight_leggings:
+      itemtype: leather_leggings
+      name: '&cRed Knight Leggings'
+      enchants:
+        '1': '&7Valor 1||&cLocked||&cLocked'
+        '2': '&7Valor 2||&cLocked||&cLocked'
+        '3': '&7Valor 3||&cLocked||&cLocked'
+        '4': '&7Valor 4||&7Hastened 1||&cLocked'
+        '5': '&7Valor 4||&7Hastened 2||&cLocked'
+        '6': '&7Valor 4||&7Hastened 2||&7Reinforced 1'
+        '7': '&7Valor 4||&7Hastened 2||&7Reinforced 2'
+    red_knight_chestplate:
+      itemtype: leather_chestplate
+      name: '&cRed Knight Chestplate'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked||&cLocked'
+        '2': '&7Last Stand 2||&cLocked||&cLocked'
+        '3': '&7Last Stand 3||&cLocked||&cLocked'
+        '4': '&7Last Stand 4||&7Hastened 1||&cLocked'
+        '5': '&7Last Stand 4||&7Hastened 2||&cLocked'
+        '6': '&7Last Stand 4||&7Hastened 2||&7Reinforced 1'
+        '7': '&7Last Stand 4||&7Hastened 2||&7Reinforced 2'
+    red_knight_helmet:
+      itemtype: leather_helmet
+      name: '&cRed Knight Helmet'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked'
+        '2': '&7Snare 2||&cLocked||&cLocked'
+        '3': '&7Snare 3||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Hastened 1||&cLocked'
+        '5': '&7Snare 4||&7Hastened 2||&cLocked'
+        '6': '&7Snare 4||&7Hastened 2||&7Reinforced 1'
+        '7': '&7Snare 4||&7Hastened 2||&7Reinforced 2'
+    charred_boots:
+      itemtype: leather_boots
+      name: '&cCharred Boots'
+      enchants:
+        '1': '&7Smoke Screen 1||&cLocked||&cLocked'
+        '2': '&7Smoke Screen 2||&cLocked||&cLocked'
+        '3': '&7Smoke Screen 3||&cLocked||&cLocked'
+        '4': '&7Smoke Screen 4||&7Ignite 1||&cLocked'
+        '5': '&7Smoke Screen 4||&7Ignite 2||&cLocked'
+        '6': '&7Smoke Screen 4||&7Ignite 2||&7Reinforced 1'
+        '7': '&7Smoke Screen 4||&7Ignite 2||&7Reinforced 2'
+    charred_leggings:
+      itemtype: leather_leggings
+      name: '&cCharred Leggings'
+      enchants:
+        '1': '&7Bane 1||&cLocked||&cLocked'
+        '2': '&7Bane 2||&cLocked||&cLocked'
+        '3': '&7Bane 3||&cLocked||&cLocked'
+        '4': '&7Bane 4||&7Ignite 1||&cLocked'
+        '5': '&7Bane 4||&7Ignite 2||&cLocked'
+        '6': '&7Bane 4||&7Ignite 2||&7Reinforced 1'
+        '7': '&7Bane 4||&7Ignite 2||&7Reinforced 2'
+    charred_chestplate:
+      itemtype: leather_chestplate
+      name: '&cCharred Chestplate'
+      enchants:
+        '1': '&7Valor 1||&cLocked||&cLocked'
+        '2': '&7Valor 2||&cLocked||&cLocked'
+        '3': '&7Valor 3||&cLocked||&cLocked'
+        '4': '&7Valor 4||&7Ignite 1||&cLocked'
+        '5': '&7Valor 4||&7Ignite 2||&cLocked'
+        '6': '&7Valor 4||&7Ignite 2||&7Reinforced 1'
+        '7': '&7Valor 4||&7Ignite 2||&7Reinforced 2'
+    charred_helmet:
+      itemtype: leather_helmet
+      name: '&cCharred Helmet'
+      enchants:
+        '1': '&7Harden 1||&cLocked||&cLocked'
+        '2': '&7Harden 2||&cLocked||&cLocked'
+        '3': '&7Harden 3||&cLocked||&cLocked'
+        '4': '&7Harden 4||&7Ignite 1||&cLocked'
+        '5': '&7Harden 4||&7Ignite 2||&cLocked'
+        '6': '&7Harden 4||&7Ignite 2||&7Reinforced 1'
+        '7': '&7Harden 4||&7Ignite 2||&7Reinforced 2'
+    holy_boots:
+      itemtype: leather_boots
+      name: '&cHoly Boots'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&7Lightweight 1||&cLocked'
+        '5': '&7Nutrition 4||&7Lightweight 2||&cLocked'
+        '6': '&7Nutrition 4||&7Lightweight 2||&7Reinforced 1'
+        '7': '&7Nutrition 4||&7Lightweight 2||&7Reinforced 2'
+    holy_leggings:
+      itemtype: leather_leggings
+      name: '&cHoly Leggings'
+      enchants:
+        '1': '&7Enlightened 1||&cLocked||&cLocked'
+        '2': '&7Enlightened 2||&cLocked||&cLocked'
+        '3': '&7Enlightened 3||&cLocked||&cLocked'
+        '4': '&7Enlightened 4||&7Lightweight 1||&cLocked'
+        '5': '&7Enlightened 4||&7Lightweight 2||&cLocked'
+        '6': '&7Enlightened 4||&7Lightweight 2||&7Reinforced 1'
+        '7': '&7Enlightened 4||&7Lightweight 2||&7Reinforced 2'
+    holy_chestplate:
+      itemtype: leather_chestplate
+      name: '&cHoly Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked'
+        '2': '&7Tank 2||&cLocked||&cLocked'
+        '3': '&7Tank 3||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Lightweight 1||&cLocked'
+        '5': '&7Tank 4||&7Lightweight 2||&cLocked'
+        '6': '&7Tank 4||&7Lightweight 2||&7Reinforced 1'
+        '7': '&7Tank 4||&7Lightweight 2||&7Reinforced 2'
+    holy_helmet:
+      itemtype: leather_helmet
+      name: '&cHoly Helmet'
+      enchants:
+        '1': '&7Savior 1||&cLocked||&cLocked'
+        '2': '&7Savior 2||&cLocked||&cLocked'
+        '3': '&7Savior 3||&cLocked||&cLocked'
+        '4': '&7Savior 4||&7Lightweight 1||&cLocked'
+        '5': '&7Savior 4||&7Lightweight 2||&cLocked'
+        '6': '&7Savior 4||&7Lightweight 2||&7Reinforced 1'
+        '7': '&7Savior 4||&7Lightweight 2||&7Reinforced 2'
+  mythic:
+    angel's_helmet:
+      itemtype: leather_helmet
+      name: '&bAngel''s Helmet'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Nutrition 2||&7Cactus 1||&cLocked||&cLocked'
+        '3': '&7Nutrition 3||&7Cactus 2||&cLocked||&cLocked'
+        '4': '&7Nutrition 4||&7Cactus 3||&7Bless 1||&cLocked'
+        '5': '&7Nutrition 4||&7Cactus 4||&7Bless 2||&cLocked'
+        '6': '&7Nutrition 4||&7Cactus 4||&7Bless 3||&7Reinforced 1'
+        '7': '&7Nutrition 4||&7Cactus 4||&7Bless 4||&7Reinforced 2'
+    angel's_chestplate:
+      itemtype: leather_chestplate
+      name: '&bAngel''s Chestplate'
+      enchants:
+        '1': '&7Tank 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Tank 2||&7Divine 1||&cLocked||&cLocked'
+        '3': '&7Tank 3||&7Divine 2||&cLocked||&cLocked'
+        '4': '&7Tank 4||&7Divine 3||&7Bless 1||&cLocked'
+        '5': '&7Tank 4||&7Divine 4||&7Bless 2||&cLocked'
+        '6': '&7Tank 4||&7Divine 4||&7Bless 3||&7Reinforced 1'
+        '7': '&7Tank 4||&7Divine 4||&7Bless 4||&7Reinforced 2'
+    angel's_leggings:
+      itemtype: leather_leggings
+      name: '&bAngel''s Leggings'
+      enchants:
+        '1': '&7Sacred 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Sacred 2||&7Enlightened 1||&cLocked||&cLocked'
+        '3': '&7Sacred 3||&7Enlightened 2||&cLocked||&cLocked'
+        '4': '&7Sacred 4||&7Enlightened 3||&7Bless 1||&cLocked'
+        '5': '&7Sacred 4||&7Enlightened 4||&7Bless 2||&cLocked'
+        '6': '&7Sacred 4||&7Enlightened 4||&7Bless 3||&7Reinforced 1'
+        '7': '&7Sacred 4||&7Enlightened 4||&7Bless 4||&7Reinforced 2'
+    angel's_boots:
+      itemtype: leather_boots
+      name: '&bAngel''s Boots'
+      enchants:
+        '1': '&7Energy 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Energy 2||&7Absorbing 1||&cLocked||&cLocked'
+        '3': '&7Energy 3||&7Absorbing 2||&cLocked||&cLocked'
+        '4': '&7Energy 4||&7Absorbing 3||&7Bless 1||&cLocked'
+        '5': '&7Energy 4||&7Absorbing 4||&7Bless 2||&cLocked'
+        '6': '&7Energy 4||&7Absorbing 4||&7Bless 3||&7Reinforced 1'
+        '7': '&7Energy 4||&7Absorbing 4||&7Bless 4||&7Reinforced 2'
+    ascension_helmet:
+      itemtype: leather_helmet
+      name: '&bAscension Helmet'
+      enchants:
+        '1': '&7Ascend 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Ascend 2||&7Immolate 1||&cLocked||&cLocked'
+        '3': '&7Ascend 3||&7Immolate 2||&cLocked||&cLocked'
+        '4': '&7Ascend 4||&7Immolate 3||&7Lightweight 1||&cLocked'
+        '5': '&7Ascend 4||&7Immolate 4||&7Lightweight 2||&cLocked'
+        '6': '&7Ascend 4||&7Immolate 4||&7Lightweight 3||&7Reinforced 1'
+        '7': '&7Ascend 4||&7Immolate 4||&7Lightweight 4||&7Reinforced 2'
+    ascension_chestplate:
+      itemtype: leather_chestplate
+      name: '&bAscension Chestplate'
+      enchants:
+        '1': '&7Bane 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Bane 2||&7Shine 1||&cLocked||&cLocked'
+        '3': '&7Bane 3||&7Shine 2||&cLocked||&cLocked'
+        '4': '&7Bane 4||&7Shine 3||&7Lightweight 1||&cLocked'
+        '5': '&7Bane 4||&7Shine 4||&7Lightweight 2||&cLocked'
+        '6': '&7Bane 4||&7Shine 4||&7Lightweight 3||&7Reinforced 1'
+        '7': '&7Bane 4||&7Shine 4||&7Lightweight 4||&7Reinforced 2'
+    ascension_leggings:
+      itemtype: leather_leggings
+      name: '&bAscension Leggings'
+      enchants:
+        '1': '&7Enlightened 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Enlightened 2||&7Precise 1||&cLocked||&cLocked'
+        '3': '&7Enlightened 3||&7Precise 2||&cLocked||&cLocked'
+        '4': '&7Enlightened 4||&7Precise 3||&7Lightweight 1||&cLocked'
+        '5': '&7Enlightened 4||&7Precise 4||&7Lightweight 2||&cLocked'
+        '6': '&7Enlightened 4||&7Precise 4||&7Lightweight 3||&7Reinforced 1'
+        '7': '&7Enlightened 4||&7Precise 4||&7Lightweight 4||&7Reinforced 2'
+    ascension_boots:
+      itemtype: leather_boots
+      name: '&bAscension Boots'
+      enchants:
+        '1': '&7Slow 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Slow 2||&7Escape 1||&cLocked||&cLocked'
+        '3': '&7Slow 3||&7Escape 2||&cLocked||&cLocked'
+        '4': '&7Slow 4||&7Escape 3||&7Lightweight 1||&cLocked'
+        '5': '&7Slow 4||&7Escape 4||&7Lightweight 2||&cLocked'
+        '6': '&7Slow 4||&7Escape 4||&7Lightweight 3||&7Reinforced 1'
+        '7': '&7Slow 4||&7Escape 4||&7Lightweight 4||&7Reinforced 2'
+    apocalypse_helmet:
+      itemtype: leather_helmet
+      name: '&bApocalypse Helmet'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Snare 2||&7Ignite 1||&cLocked||&cLocked'
+        '3': '&7Snare 3||&7Ignite 2||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Ignite 3||&7Consumption 1||&cLocked'
+        '5': '&7Snare 4||&7Ignite 4||&7Consumption 2||&cLocked'
+        '6': '&7Snare 4||&7Ignite 4||&7Consumption 3||&7Reinforced 1'
+        '7': '&7Snare 4||&7Ignite 4||&7Consumption 4||&7Reinforced 2'
+    apocalypse_chestplate:
+      itemtype: leather_chestplate
+      name: '&bApocalypse Chestplate'
+      enchants:
+        '1': '&7Famine 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Famine 2||&7Tank 1||&cLocked||&cLocked'
+        '3': '&7Famine 3||&7Tank 2||&cLocked||&cLocked'
+        '4': '&7Famine 4||&7Tank 3||&7Consumption 1||&cLocked'
+        '5': '&7Famine 4||&7Tank 4||&7Consumption 2||&cLocked'
+        '6': '&7Famine 4||&7Tank 4||&7Consumption 3||&7Reinforced 1'
+        '7': '&7Famine 4||&7Tank 4||&7Consumption 4||&7Reinforced 2'
+    apocalypse_leggings:
+      itemtype: leather_leggings
+      name: '&bApocalypse Leggings'
+      enchants:
+        '1': '&7Saturation 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Saturation 2||&7Absorbing 1||&cLocked||&cLocked'
+        '3': '&7Saturation 3||&7Absorbing 2||&cLocked||&cLocked'
+        '4': '&7Saturation 4||&7Absorbing 3||&7Consumption 1||&cLocked'
+        '5': '&7Saturation 4||&7Absorbing 4||&7Consumption 2||&cLocked'
+        '6': '&7Saturation 4||&7Absorbing 4||&7Consumption 3||&7Reinforced 1'
+        '7': '&7Saturation 4||&7Absorbing 4||&7Consumption 4||&7Reinforced 2'
+    apocalypse_boots:
+      itemtype: leather_boots
+      name: '&bApocalypse Boots'
+      enchants:
+        '1': '&7Overwhelm 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Overwhelm 2||&7Nutrition 1||&cLocked||&cLocked'
+        '3': '&7Overwhelm 3||&7Nutrition 2||&cLocked||&cLocked'
+        '4': '&7Overwhelm 4||&7Nutrition 3||&7Consumption 1||&cLocked'
+        '5': '&7Overwhelm 4||&7Nutrition 4||&7Consumption 2||&cLocked'
+        '6': '&7Overwhelm 4||&7Nutrition 4||&7Consumption 3||&7Reinforced 1'
+        '7': '&7Overwhelm 4||&7Nutrition 4||&7Consumption 4||&7Reinforced 2'
+    perished_helmet:
+      itemtype: leather_helmet
+      name: '&bPerished Helmet'
+      enchants:
+        '1': '&7Dull 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Dull 2||&7Savior 1||&cLocked||&cLocked'
+        '3': '&7Dull 3||&7Savior 2||&cLocked||&cLocked'
+        '4': '&7Dull 4||&7Savior 3||&7Decay 1||&cLocked'
+        '5': '&7Dull 4||&7Savior 4||&7Decay 2||&cLocked'
+        '6': '&7Dull 4||&7Savior 4||&7Decay 3||&7Reinforced 1'
+        '7': '&7Dull 4||&7Savior 4||&7Decay 4||&7Reinforced 2'
+    perished_chestplate:
+      itemtype: leather_chestplate
+      name: '&bPerished Chestplate'
+      enchants:
+        '1': '&7Bane 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Bane 2||&7Venom 1||&cLocked||&cLocked'
+        '3': '&7Bane 3||&7Venom 2||&cLocked||&cLocked'
+        '4': '&7Bane 4||&7Venom 3||&7Decay 1||&cLocked'
+        '5': '&7Bane 4||&7Venom 4||&7Decay 2||&cLocked'
+        '6': '&7Bane 4||&7Venom 4||&7Decay 3||&7Reinforced 1'
+        '7': '&7Bane 4||&7Venom 4||&7Decay 4||&7Reinforced 2'
+    perished_leggings:
+      itemtype: leather_Leggings
+      name: '&bPerished Leggings'
+      enchants:
+        '1': '&7Withering 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Withering 2||&7Ignite 1||&cLocked||&cLocked'
+        '3': '&7Withering 3||&7Ignite 2||&cLocked||&cLocked'
+        '4': '&7Withering 4||&7Ignite 3||&7Decay 1||&cLocked'
+        '5': '&7Withering 4||&7Ignite 4||&7Decay 2||&cLocked'
+        '6': '&7Withering 4||&7Ignite 4||&7Decay 3||&7Reinforced 1'
+        '7': '&7Withering 4||&7Ignite 4||&7Decay 4||&7Reinforced 2'
+    perished_boots:
+      itemtype: leather_boots
+      name: '&bPerished Boots'
+      enchants:
+        '1': '&7Smokescreen 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Smokescreen 2||&7Cactus 1||&cLocked||&cLocked'
+        '3': '&7Smokescreen 3||&7Cactus 2||&cLocked||&cLocked'
+        '4': '&7Smokescreen 4||&7Cactus 3||&7Decay 1||&cLocked'
+        '5': '&7Smokescreen 4||&7Cactus 4||&7Decay 2||&cLocked'
+        '6': '&7Smokescreen 4||&7Cactus 4||&7Decay 3||&7Reinforced 1'
+        '7': '&7Smokescreen 4||&7Cactus 4||&7Decay 4||&7Reinforced 2'
+    colossal_helmet:
+      itemtype: leather_helmet
+      name: '&bColossal Helmet'
+      enchants:
+        '1': '&7Savior 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Savior 2||&7Valor 1||&cLocked||&cLocked'
+        '3': '&7Savior 3||&7Valor 2||&cLocked||&cLocked'
+        '4': '&7Savior 4||&7Valor 3||&7Endurance 1||&cLocked'
+        '5': '&7Savior 4||&7Valor 4||&7Endurance 2||&cLocked'
+        '6': '&7Savior 4||&7Valor 4||&7Endurance 3||&7Reinforced 1'
+        '7': '&7Savior 4||&7Valor 4||&7Endurance 4||&7Reinforced 2'
+    colossal_chestplate:
+      itemtype: leather_chestplate
+      name: '&bColossal Chestplate'
+      enchants:
+        '1': '&7Massive 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Massive 2||&7Tank 1||&cLocked||&cLocked'
+        '3': '&7Massive 3||&7Tank 2||&cLocked||&cLocked'
+        '4': '&7Massive 4||&7Tank 3||&7Endurance 1||&cLocked'
+        '5': '&7Massive 4||&7Tank 4||&7Endurance 2||&cLocked'
+        '6': '&7Massive 4||&7Tank 4||&7Endurance 3||&7Reinforced 1'
+        '7': '&7Massive 4||&7Tank 4||&7Endurance 4||&7Reinforced 2'
+    colossal_leggings:
+      itemtype: leather_leggings
+      name: '&bColossal Leggings'
+      enchants:
+        '1': '&7Enlightened 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Enlightened 2||&7Absorbing 1||&cLocked||&cLocked'
+        '3': '&7Enlightened 3||&7Absorbing 2||&cLocked||&cLocked'
+        '4': '&7Enlightened 4||&7Absorbing 3||&7Endurance 1||&cLocked'
+        '5': '&7Enlightened 4||&7Absorbing 4||&7Endurance 2||&cLocked'
+        '6': '&7Enlightened 4||&7Absorbing 4||&7Endurance 3||&7Reinforced 1'
+        '7': '&7Enlightened 4||&7Absorbing 4||&7Endurance 4||&7Reinforced 2'
+    colossal_boots:
+      itemtype: leather_boots
+      name: '&bColossal Boots'
+      enchants:
+        '1': '&7Last Stand 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Last Stand 2||&7Saturation 1||&cLocked||&cLocked'
+        '3': '&7Last Stand 3||&7Saturation 2||&cLocked||&cLocked'
+        '4': '&7Last Stand 4||&7Saturation 3||&7Endurance 1||&cLocked'
+        '5': '&7Last Stand 4||&7Saturation 4||&7Endurance 2||&cLocked'
+        '6': '&7Last Stand 4||&7Saturation 4||&7Endurance 3||&7Reinforced 1'
+        '7': '&7Last Stand 4||&7Saturation 4||&7Endurance 4||&7Reinforced 2'
+    harbinger_helmet:
+      itemtype: leather_helmet
+      name: '&bHarbinger Helmet'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Snare 2||&7Precise 1||&cLocked||&cLocked'
+        '3': '&7Snare 3||&7Precise 2||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Precise 3||&7Sinister 1||&cLocked'
+        '5': '&7Snare 4||&7Precise 4||&7Sinister 2||&cLocked'
+        '6': '&7Snare 4||&7Precise 4||&7Sinister 3||&7Reinforced 1'
+        '7': '&7Snare 4||&7Precise 4||&7Sinister 4||&7Reinforced 2'
+    harbinger_chestplate:
+      itemtype: leather_chestplate
+      name: '&bHarbinger Chestplate'
+      enchants:
+        '1': '&7Counter 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Counter 2||&7Overwhelm 1||&cLocked||&cLocked'
+        '3': '&7Counter 3||&7Overwhelm 2||&cLocked||&cLocked'
+        '4': '&7Counter 4||&7Overwhelm 3||&7Sinister 1||&cLocked'
+        '5': '&7Counter 4||&7Overwhelm 4||&7Sinister 2||&cLocked'
+        '6': '&7Counter 4||&7Overwhelm 4||&7Sinister 3||&7Reinforced 1'
+        '7': '&7Counter 4||&7Overwhelm 4||&7Sinister 4||&7Reinforced 2'
+    harbinger_leggings:
+      itemtype: leather_leggings
+      name: '&bHarbinger Leggings'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&7Escape 1||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&7Escape 2||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&7Escape 3||&7Sinister 1||&cLocked'
+        '5': '&7Kadabra 4||&7Escape 4||&7Sinister 2||&cLocked'
+        '6': '&7Kadabra 4||&7Escape 4||&7Sinister 3||&7Reinforced 1'
+        '7': '&7Kadabra 4||&7Escape 4||&7Sinister 4||&7Reinforced 2'
+    harbinger_boots:
+      itemtype: leather_boots
+      name: '&bHarbinger Boots'
+      enchants:
+        '1': '&7Saturation 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Saturation 2||&7Absorbing 1||&cLocked||&cLocked'
+        '3': '&7Saturation 3||&7Absorbing 2||&cLocked||&cLocked'
+        '4': '&7Saturation 4||&7Absorbing 3||&7Sinister 1||&cLocked'
+        '5': '&7Saturation 4||&7Absorbing 4||&7Sinister 2||&cLocked'
+        '6': '&7Saturation 4||&7Absorbing 4||&7Sinister 3||&7Reinforced 1'
+        '7': '&7Saturation 4||&7Absorbing 4||&7Sinister 4||&7Reinforced 2'
+    pure_helmet:
+      itemtype: leather_helmet
+      name: '&bPure Helmet'
+      ability: '&7Level 7 Set Bonus:||&fPure &7- &eRemoves all potion effects'
+      enchants:
+        '1': '&7Snare 1||&cLocked||&cLocked'
+        '2': '&7Snare 2||&cLocked||&cLocked'
+        '3': '&7Snare 3||&cLocked||&cLocked'
+        '4': '&7Snare 4||&7Purity 1||&cLocked'
+        '5': '&7Snare 4||&7Purity 2||&cLocked'
+        '6': '&7Snare 4||&7Purity 2||&7Reinforced 1'
+        '7': '&7Snare 4||&7Purity 2||&7Reinforced 2'
+    pure_chestplate:
+      itemtype: leather_chestplate
+      name: '&bPure Chestplate'
+      ability: '&7Level 7 Set Bonus:||&fPure &7- &eRemoves all potion effects'
+      enchants:
+        '1': '&7Slow 1||&cLocked||&cLocked'
+        '2': '&7Slow 2||&cLocked||&cLocked'
+        '3': '&7Slow 3||&cLocked||&cLocked'
+        '4': '&7Slow 4||&7Purity 1||&cLocked'
+        '5': '&7Slow 4||&7Purity 2||&cLocked'
+        '6': '&7Slow 4||&7Purity 2||&7Reinforced 1'
+        '7': '&7Slow 4||&7Purity 2||&7Reinforced 2'
+    pure_leggings:
+      itemtype: leather_leggings
+      name: '&bPure Leggings'
+      ability: '&7Level 7 Set Bonus:||&fPure &7- &eRemoves all potion effects'
+      enchants:
+        '1': '&7Kadabra 1||&cLocked||&cLocked'
+        '2': '&7Kadabra 2||&cLocked||&cLocked'
+        '3': '&7Kadabra 3||&cLocked||&cLocked'
+        '4': '&7Kadabra 4||&7Purity 1||&cLocked'
+        '5': '&7Kadabra 4||&7Purity 2||&cLocked'
+        '6': '&7Kadabra 4||&7Purity 2||&7Reinforced 1'
+        '7': '&7Kadabra 4||&7Purity 2||&7Reinforced 2'
+    pure_boots:
+      itemtype: leather_boots
+      name: '&bPure Boots'
+      ability: '&7Level 7 Set Bonus:||&fPure &7- &eRemoves all potion effects'
+      enchants:
+        '1': '&7Wither 1||&cLocked||&cLocked'
+        '2': '&7Wither 2||&cLocked||&cLocked'
+        '3': '&7Wither 3||&cLocked||&cLocked'
+        '4': '&7Wither 4||&7Purity 1||&cLocked'
+        '5': '&7Wither 4||&7Purity 2||&cLocked'
+        '6': '&7Wither 4||&7Purity 2||&7Reinforced 1'
+        '7': '&7Wither 4||&7Purity 2||&7Reinforced 2'
+    rage_knight_helmet:
+      itemtype: leather_helmet
+      name: '&bRage Knight Helmet'
+      ability: '&7Full Set Bonus:||&e+10 Strength Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Strength 2'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Absorbing 3||&7Saturation 1||&cLocked||&cLocked'
+        '6': '&7Absorbing 3||&7Saturation 1||&7Reinforced 1||&cLocked'
+        '7': '&7Absorbing 4||&7Saturation 1||&7Reinforced 2||&7Strength 1'
+    rage_knight_chestplate:
+      itemtype: leather_chestplate
+      name: '&bRage Knight Chestplate'
+      ability: '&7Full Set Bonus:||&e+10 Strength Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Strength 2'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Absorbing 3||&7Saturation 1||&cLocked||&cLocked'
+        '6': '&7Absorbing 3||&7Saturation 1||&7Reinforced 1||&cLocked'
+        '7': '&7Absorbing 4||&7Saturation 1||&7Reinforced 2||&7Strength 1'
+    rage_knight_leggings:
+      itemtype: leather_leggings
+      name: '&bRage Knight Leggings'
+      ability: '&7Full Set Bonus:||&e+10 Strength Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Strength 2'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Absorbing 3||&7Saturation 1||&cLocked||&cLocked'
+        '6': '&7Absorbing 3||&7Saturation 1||&7Reinforced 1||&cLocked'
+        '7': '&7Absorbing 4||&7Saturation 1||&7Reinforced 2||&7Strength 1'
+    rage_knight_boots:
+      itemtype: leather_boots
+      name: '&bRage Knight Boots'
+      ability: '&7Full Set Bonus:||&e+10 Strength Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Strength 2'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Absorbing 3||&7Saturation 1||&cLocked||&cLocked'
+        '6': '&7Absorbing 3||&7Saturation 1||&7Reinforced 1||&cLocked'
+        '7': '&7Absorbing 4||&7Saturation 1||&7Reinforced 2||&7Strength 1'
+    huntress_helmet:
+      itemtype: leather_helmet
+      name: '&bHuntress Helmet'
+      ability: '&7Full Set Bonus:||&e+5 Archery Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Speed 2'
+      enchants:
+        '1': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Absorbing 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Absorbing 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Absorbing 3||&7Lightweight 1||&cLocked||&cLocked'
+        '6': '&7Absorbing 3||&7Lightweight 1||&7Reinforced 1||&cLocked'
+        '7': '&7Absorbing 4||&7Lightweight 1||&7Reinforced 2||&7Speed 1'
+    huntress_chestplate:
+      itemtype: leather_chestplate
+      name: '&bHuntress Chestplate'
+      ability: '&7Full Set Bonus:||&e+5 Archery Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Speed 2'
+      enchants:
+        '1': '&7Snares 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Snares 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Snares 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Snares 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Snares 3||&7Lightweight 1||&cLocked||&cLocked'
+        '6': '&7Snares 3||&7Lightweight 1||&7Reinforced 1||&cLocked'
+        '7': '&7Snares 4||&7Lightweight 1||&7Reinforced 2||&7Speed 1'
+    huntress_leggings:
+      itemtype: leather_leggings
+      name: '&bHuntress Leggings'
+      ability: '&7Full Set Bonus:||&e+5 Archery Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Speed 2'
+      enchants:
+        '1': '&7Nutrition 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Nutrition 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Nutrition 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Nutrition 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Nutrition 3||&7Lightweight 1||&cLocked||&cLocked'
+        '6': '&7Nutrition 3||&7Lightweight 1||&7Reinforced 1||&cLocked'
+        '7': '&7Nutrition 4||&7Lightweight 1||&7Reinforced 2||&7Speed 1'
+    huntress_boots:
+      itemtype: leather_boots
+      name: '&bHuntress Boots'
+      ability: '&7Full Set Bonus:||&e+5 Archery Skill Buff||&7Level 7 Set Bonus:||&ePermanent
+        Speed 2'
+      enchants:
+        '1': '&7Valor 1||&cLocked||&cLocked||&cLocked'
+        '2': '&7Valor 1||&cLocked||&cLocked||&cLocked'
+        '3': '&7Valor 2||&cLocked||&cLocked||&cLocked'
+        '4': '&7Valor 2||&cLocked||&cLocked||&cLocked'
+        '5': '&7Valor 3||&7Lightweight 1||&cLocked||&cLocked'
+        '6': '&7Valor 3||&7Lightweight 1||&7Reinforced 1||&cLocked'
+        '7': '&7Valor 4||&7Lightweight 1||&7Reinforced 2||&7Speed 1'
+  event:
+    elven_helmet:
+      itemtype: leather_helmet
+      name: '&aElven &cHelmet'
+      enchants:
+        '1': '&aAbsorbing 1||&cLocked'
+        '2': '&aAbsorbing 2||&cLocked'
+        '3': '&aAbsorbing 3||&aReinforced 1'
+        '4': '&aAbsorbing 3||&aReinforced 2'
+        '5': '&aAbsorbing 3||&aReinforced 3'
+        '6': '&aAbsorbing 3||&aReinforced 2'
+        '7': '&aAbsorbing 3||&aReinforced 3'
+    elven_chestplate:
+      itemtype: leather_chestplate
+      name: '&aElven &cChestplate'
+      enchants:
+        '1': '&aValor 1||&cLocked'
+        '2': '&aValor 2||&cLocked'
+        '3': '&aValor 3||&aReinforced 1'
+        '4': '&aValor 3||&aReinforced 2'
+        '5': '&aValor 3||&aReinforced 3'
+        '6': '&aValor 3||&aReinforced 2'
+        '7': '&aValor 3||&aReinforced 3'
+    elven_leggings:
+      itemtype: leather_leggings
+      name: '&aElven &cLeggings'
+      enchants:
+        '1': '&aSaturation 1||&cLocked'
+        '2': '&aSaturation 2||&cLocked'
+        '3': '&aSaturation 3||&aReinforced 1'
+        '4': '&aSaturation 3||&aReinforced 2'
+        '5': '&aSaturation 3||&aReinforced 3'
+        '6': '&aSaturation 3||&aReinforced 2'
+        '7': '&aSaturation 3||&aReinforced 3'
+    elven_boots:
+      itemtype: leather_boots
+      name: '&aElven &cBoots'
+      enchants:
+        '1': '&aEnlightened 1||&cLocked'
+        '2': '&aEnlightened 2||&cLocked'
+        '3': '&aEnlightened 3||&aReinforced 1'
+        '4': '&aEnlightened 3||&aReinforced 2'
+        '5': '&aEnlightened 3||&aReinforced 3'
+        '6': '&aEnlightened 3||&aReinforced 2'
+        '7': '&aEnlightened 3||&aReinforced 3'
+    spooky_helmet:
+      itemtype: leather_helmet
+      name: '&6&lS&8&lp&6&lo&8&lo&6&lk&8&ly &6&lH&8&le&6&ll&8&lm&6&le&8&lt'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Snare 2||&6Saturation 2||&6Reinforced 1'
+        '6': '&6Snare 2||&6Saturation 2||&6Reinforced 1'
+        '7': '&6Snare 2||&6Saturation 2||&6Reinforced 1'
+    spooky_chestplate:
+      itemtype: leather_chestplate
+      name: '&6&lS&8&lp&6&lo&8&lo&6&lk&8&ly &6&lC&8&lh&6&le&8&ls&6&lt&8&lp&6&ll&8&la&6&lt&8&le'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Enlightened 2||&6Valor 2||&6Reinforced 1'
+        '6': '&6Enlightened 2||&6Valor 2||&6Reinforced 1'
+        '7': '&6Enlightened 2||&6Valor 2||&6Reinforced 1'
+    spooky_leggings:
+      itemtype: leather_leggings
+      name: '&6&lS&8&lp&6&lo&8&lo&6&lk&8&ly &6&lL&8&le&6&lg&8&lg&6&li&8&ln&6&lg&8&ls'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Kadabra 2||&6Lightweight 2||&6Reinforced 1'
+        '6': '&6Kadabra 2||&6Lightweight 2||&6Reinforced 1'
+        '7': '&6Kadabra 2||&6Lightweight 2||&6Reinforced 1'
+    spooky_boots:
+      itemtype: leather_boots
+      name: '&6&lS&8&lp&6&lo&8&lo&6&lk&8&ly &6&lB&8&lo&6&lo&8&lt&6&ls'
+      enchants:
+        '1': '&6&l??? 1'
+        '2': '&6&l??? 2'
+        '3': '&6&l??? 2'
+        '4': '&6&l??? 3'
+        '5': '&6Bane 2||&6Lightweight 2||&6Reinforced 1'
+        '6': '&6Bane 2||&6Lightweight 2||&6Reinforced 1'
+        '7': '&6Bane 2||&6Lightweight 2||&6Reinforced 1'

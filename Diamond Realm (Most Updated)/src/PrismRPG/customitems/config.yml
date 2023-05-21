@@ -1,0 +1,11 @@
+items:
+  lore:
+    defaultbreak: '&8--------------------'
+  format:
+    raritycolor:
+      common: '&7'
+      rare: '&a'
+      epic: '&5'
+      legendary: '&c'
+      mythic: '&b'
+      event: '&6'

@@ -1,0 +1,92 @@
+name: PrismRPG
+version: 0.0.1
+main: me.deathmercenary.Main.Main
+description: Prevents Items with color coded names from accidentally being dropped
+softdepend: [HolographicDisplays]
+api-version: 1.16
+commands:
+  skill:
+    usage: /<command>
+    description: test
+  skills:
+    usage: /<command>
+    description: test
+  gm:
+    usage: /<command>
+    aliases: [gamemode]
+    permission: prismforge.gamemode
+    description: Sets a players gamemode.
+  diamond:
+    usage: /<command>
+    permission: prismforge.reload
+    description: Reloads plugin
+  xpbottle:
+    usage: /<command> <xp amount> <amount of bottles>
+    permission: prismforge.admin
+    description: Gives player xpbottles
+  prestige:
+    usage: /<command> set <player> <integer>
+    description: Prestiges target player
+  xpbottle:
+    usage: /<command>
+    description: give player an exp bottles
+  broadcast:
+    usage: /<command> <string>
+    description: Broadcasts a message.
+    aliases: [bc, b]
+  setlevel:
+    usage: /<command> <player> <level> <exp>
+    description: sets a players level.
+  rename:
+    usage: /<command>
+    description: s
+  newlore:
+    usage: /<command>
+    description: ss
+  crystal:
+    usage: /<command>
+    description: s
+  customitem:
+    usage: /<command>
+    description: s
+  getuuid:
+    usage: /<command>
+    description: s
+  novisspin:
+    usage: /<command>
+    description: s
+  developertoggle:
+    usage: /<command>
+    permission: prismforge.dev
+    description: se
+  spawn:
+    usage: /<command>
+    description: s
+  fly:
+    usage: /<command>
+    description: s
+  heal:
+    usage: /<command>
+    description: s
+  feed:
+    usage: /<command>
+    aliases: [eat]
+    description: s
+  dp:
+    usage: /<command>
+    aliases: [deathpoint]
+    description: s
+  tpa:
+    usage: /<command>
+    description: s
+  tpaccept:
+    usage: /<command>
+    aliases: [tpyes]
+    description: s
+  faction:
+    usage: /<command>
+    aliases: [f, fac]
+    description: s
+  friend:
+    usage: /<command>
+    description: s
